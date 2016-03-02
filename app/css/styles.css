@@ -1,0 +1,140 @@
+html {
+    height: 100%;
+}
+body {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#feffff+0,a0d8ef+100 */
+    background: #feffff;
+    /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #feffff 0%, #a0d8ef 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #feffff 0%, #a0d8ef 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #feffff 0%, #a0d8ef 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#a0d8ef', GradientType=1);
+    /* IE6-9 fallback on horizontal gradient */
+}
+#app {
+    margin: auto;
+    max-width: 1100px;
+}
+.box {
+    float: left;
+    width: 500px;
+    height: 250px;
+    margin: 20px;
+}
+.boxHeader {
+    background-color: #5096b4;
+    font-size: 20px;
+    padding: 5px 5px 10px 5px;
+    font-style: italic;
+    font-weight: light;
+    color: white;
+    border: 1px solid grey;
+    height: 40px;
+    border-radius: 10px 10px 0px 0px;
+    border-width: 1px 1px 1px 1px;
+    overflow: hidden;
+}
+.boxContent {
+    background-color: white;
+    overflow-x: hidden;
+    height: 210px;
+    border: solid grey;
+    border-width: 0px 1px 1px 1px;
+}
+.listItem {
+    background-color: #edf1f5;
+    margin-bottom: 1px;
+    padding: 5px;
+    font-size: 15px;
+}
+.listItem:hover {
+    background-color: #6e7174;
+    transition-duration: 0.75s;
+    color: white;
+}
+.listItem.selected {
+    background-color: #6e7174;
+    color: white;
+}
+.noselect {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Chrome/Safari/Opera */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* IE/Edge */
+    cursor: pointer;
+}
+
+#postCount {
+    text-align: left;
+    width: 50%;
+    float: left;
+}
+#authorsCount {
+    text-align: right;
+    padding-right: 5px;
+}
+
+#storyTitle, #frequencyTitle {
+    text-align: center;
+}
+#storyTitle {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#storyTitle a {
+    color: white;
+}
+#frequencyBoxContent, #storyBoxContent {
+    height: 460px;
+    text-align: center;
+}
+#frequencyBox, #storyBox {
+    height: 500px;
+}
+#storyText {
+    padding: 5px 10px 5px 10px;
+    text-align: justify;
+    text-indent: 10px;
+    box-sizing: border-box;
+}
+#storyText img {
+    max-width: 95%;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+#frequencyChart {
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.removeRssBtn {
+    font-size: 10px;
+    padding: 5px;
+    float: right;
+    color: red;
+    display: none;
+}
+.removeRssBtn:hover {
+    cursor: pointer;
+    color: white;
+}
+#nodata {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+    color: #ababab;
+}

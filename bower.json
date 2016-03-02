@@ -1,0 +1,17 @@
+{
+  "name": "rss_stats",
+  "description": "RSS Feed Statistics",
+  "authors": [
+    "Kirill Shmidt"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "rss"
+  ],
+  "homepage": "https://github.com/shmidtkirill/rss_stats/#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^0.14.7",
+    "abdmob/x2js": "^1.2.0"
+  }
+}

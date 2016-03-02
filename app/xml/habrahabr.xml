@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>Хабрахабр / Все / Тематические публикации</title>
+	<link>https://habrahabr.ru/posts/collective/all/</link>
+	<description><![CDATA[Все публикации из тематических хабов на Хабрахабре]]></description>
+	<language>ru</language>
+	<managingEditor>editor@habrahabr.ru</managingEditor>
+	<generator>habrahabr.ru</generator>
+	<pubDate>Fri, 26 Feb 2016 01:48:08 GMT</pubDate>
+	<lastBuildDate></lastBuildDate>
+        <image>
+            <link>https://habrahabr.ru/</link>
+            <url>https://habrahabr.ru/images/logo.png</url>
+            <title>Хабрахабр</title>
+        </image>
+					<item>
+		<title><![CDATA[Embedded World 2016: куда катится embedded-мир?]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277873/</guid>
+		<link>https://habrahabr.ru/post/277873/</link>
+		<description><![CDATA[<br/>Всем привет!<br/>
+<br/>
+Давненько мы ничего не писали. А тем временем...<br/>
+<br/>
+В тридевятом царстве, в тридесятом государстве, в баварской вотчине, в средневековом городе Нюрнберге проходит выставка под названием Embedded World. Цель выставки — собрать в одном месте производителей, разработчиков, студентов и других заинтересованных граждан. Проходит она три дня — с 23 по 25 февраля. <br/>
+<br/>
+<img src="https://habrastorage.org/files/fde/6b1/f23/fde6b1f238234ff5bb0add6b1fc97645.png"/><br/>
+<br/>
+<br/>
+Сайт выставки: <a href="http://www.embedded-world.de">http://www.embedded-world.de</a><br/>
+<br/>
+Около 900 участников, примерно 25 тысяч посетителей. Двух дней еле-еле хватает, чтобы понять, что к чему. Поэтому выставка длится три дня :)<br/>
+<br/>
+Судьба забрасывает меня на это мероприятие уже не в первый раз: мы с коллегами по <a href="http://metrotek.spb.ru">НТЦ Метротек</a> посещали выставку в 2013, 2014 и 2015 годах. Именно здесь мы впервые увидели Cyclone V SoC (System On Chip c ARM и FPGA на борту), который впоследствии лёг в основу новых девайсов производства НТЦ Метротек (это — <a href="http://metrotek.spb.ru/b3et.html">Беркут-ЕТ</a>, <a href="http://metrotek.spb.ru/ethond.html">EthOnd</a>, <a href="http://metrotek.spb.ru/cyclonevsom.html">BlueSoM</a>, ETL-N). Именно здесь мы нашли производителей корпусов <a href="http://www.emko.cz">EMKO</a> и наладили с ними сотрудничество, теперь все стоечные приборы (свитч <a href="http://metrotek.spb.ru/x10-24.html">Metrotek X10-24</a>, <a href="http://metrotek.spb.ru/bmx.html">Беркут-МХ</a>) выглядят единообразно. Здесь мы узнаём о новинках и трендах.<br/>
+<br/>
+Под катом больше информации об участниках, новых продуктах и просто вещах, которые нам понравились и запомнились.<br/>
+С фотографиями и ссылками.<br/>
+ <a href="https://habrahabr.ru/post/277873/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 22:14:28 GMT</pubDate>
+		<author>paulig</author>
+		<category><![CDATA[Разработка под Linux]]></category><category><![CDATA[Разработка для интернета вещей]]></category><category><![CDATA[Программирование микроконтроллеров]]></category><category><![CDATA[FPGA]]></category><category><![CDATA[Блог компании НТЦ Метротек]]></category>
+		<category><![CDATA[embedded world]]></category><category><![CDATA[exhibition]]></category><category><![CDATA[embedded]]></category><category><![CDATA[IoT]]></category><category><![CDATA[m2m]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Шаблон проектирования View в языках с зависимыми типами]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277989/</guid>
+		<link>https://habrahabr.ru/post/277989/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/files/0e0/67b/a24/0e067ba244494c62b8f4941c4898ba60.jpg"/><br/>
+<br/>
+Шаблоны проектирования! Впервые я узнал о них на курсе Software Design, когда учился в магистратуре Академического университета. Мы писали различные программы на Java с использованием шаблонов. С тех пор это словосочетание ассоциируется у меня с чем-то таким ООПшным. Однако, разбираясь с языком Agda, я наткнулся на статью The Power Of Pi, которая рассказывает про шаблоны проектирования в языках с зависимыми типами!<br/>
+<br/>
+В этом посте я хочу рассказать об одном из этих шаблонов, который называется View. С его помощью можно реализовывать пользовательские правила pattern matching'a. Если вам интересно, что это за шаблон, что такое пользовательский pattern matching, каковы особенности pattern matching'а в языках с зависимыми типами, и вы знакомы с каким-нибудь функциональным языком программирования со статической типизацией (Haskell, Scala, Ocaml, F#) — добро пожаловать под кат! <a href="https://habrahabr.ru/post/277989/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 20:39:33 GMT</pubDate>
+		<author>mr_xx</author>
+		<category><![CDATA[Функциональное программирование]]></category><category><![CDATA[Проектирование и рефакторинг]]></category><category><![CDATA[Блог компании СПБАУ]]></category>
+		<category><![CDATA[agda]]></category><category><![CDATA[pattern matching]]></category><category><![CDATA[зависимые типы]]></category><category><![CDATA[шаблоны проектирования]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Справочник по синхронизаторам java.util.concurrent.*]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277669/</guid>
+		<link>https://habrahabr.ru/post/277669/</link>
+		<description><![CDATA[<br/>Целью данной публикации не является полный анализ синхронизаторов из пакета java.util.concurrent. Пишу её, прежде всего, как справочник, который облегчит вхождение в тему и покажет возможности практического применения классов для синхронизации нитей.<br/>
+<br/>
+В java.util.concurrent много различных классов, которые по функционалу можно поделить на группы: Concurrent Collections, Executors, Atomics и т.д. Одной из этих групп будет Synchronizers (синхронизаторы).<br/>
+<br/>
+<img src="https://habrastorage.org/files/303/865/e0e/303865e0e58b4514863ca687a498d9cd.png"/><br/>
+<br/>
+<b>Синхронизаторы</b> – вспомогательные утилиты для синхронизации нитей, которые дают возможность разработчику регулировать и/или ограничивать работу нитей и предоставляют более высокий уровень абстракции, чем основные примитивы языка (мониторы).<br/>
+ <a href="https://habrahabr.ru/post/277669/#habracut">Читать дальше</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 19:38:07 GMT</pubDate>
+		<author>egorpetrov</author>
+		<category><![CDATA[JAVA]]></category>
+		<category><![CDATA[java.util.concurrent]]></category><category><![CDATA[java]]></category><category><![CDATA[concurrency]]></category><category><![CDATA[phaser]]></category><category><![CDATA[semaphore]]></category><category><![CDATA[cyclicbarrier]]></category><category><![CDATA[exchanger]]></category><category><![CDATA[countdownlatch]]></category><category><![CDATA[jdk 5]]></category><category><![CDATA[jdk 7]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Как я ошибся при написании хеш-таблицы и какие выводы из этого сделал]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277313/</guid>
+		<link>https://habrahabr.ru/post/277313/</link>
+		<description><![CDATA[<br/><blockquote>Для ясности теоретического понимания нет лучшего пути, чем учиться на своих собственных ошибках, на собственном горьком опыте. (Фридрих Энгельс)</blockquote><br/>
+Всем привет!<br/>
+<br/>
+Несколько недель назад мне в линкедине написал коллега и сообщил, что в моем <a href="https://github.com/johan92/fpga-hash-table">проекте</a> на гитхабе не совсем верно работает хеш-таблица.<br/>
+<br/>
+Мне прислали тесты и фикс, и действительно создавалась ситуация, где система &quot;зависала&quot;. При расследовании проблемы я понял, что допустил несколько ошибок при верификации. На Хабре тема верификации RTL-кода не слишком подробна расписана, поэтому я и решил написать статью.<br/>
+<br/>
+Из статьи вы узнаете:<br/>
+<br/>
+<ul>
+<li>как можно организовать хеш-таблицу на FPGA.</li>
+<li>на чём была построена верификация.</li>
+<li>какие ошибки я допустил (они привели к тому, что бага не была замечена раньше).</li>
+<li>как это всё можно исправить.</li>
+</ul><br/>
+Добро пожаловать под кат!<br/>
+ <a href="https://habrahabr.ru/post/277313/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 18:39:35 GMT</pubDate>
+		<author>ishevchuk</author>
+		<category><![CDATA[Программирование]]></category><category><![CDATA[Отладка]]></category><category><![CDATA[FPGA]]></category><category><![CDATA[Блог компании НТЦ Метротек]]></category>
+		<category><![CDATA[fpga]]></category><category><![CDATA[verification]]></category><category><![CDATA[плис]]></category><category><![CDATA[верификация]]></category><category><![CDATA[modelsim]]></category><category><![CDATA[assertion]]></category><category><![CDATA[coverage]]></category><category><![CDATA[verilog]]></category><category><![CDATA[systemverilog]]></category><category><![CDATA[хеш-таблица]]></category><category><![CDATA[hash table]]></category><category><![CDATA[опыт через боль]]></category><category><![CDATA[rtl]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Программный интернет шлюз для уже не маленькой компании (Shorewall, QoS во всю ширь). Часть 3]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277983/</guid>
+		<link>https://habrahabr.ru/post/277983/</link>
+		<description><![CDATA[<br/>Представляю третью статью из серии, ориентированных на «продолжающих» системных администраторов, для опытных я вряд ли открою что-то новое.<br/>
+<br/>
+В этих статьях мы рассмотрим построение интернет шлюза на linux, позволяющего связать несколько офисов компании, и обеспечить ограниченный доступ в сеть, приоритетзацию трафика (QoS) и простую балансировку нагрузки с резервированием канала между двумя провайдерами.<br/>
+<br/>
+Конкретно в этой части:<br/>
+<ul>
+<li>QoS во всю ширь в Shorewall</li>
+<li>Более подробная настройка Shorewall</li>
+<li>Раскидывание трафика по каналам в соответствии с протоколами</li>
+<li>Костыли, без них, никуда</li>
+</ul><br/>
+А в <a href="http://habrahabr.ru/post/274639/">первой части</a> были рассмотрены:<br/>
+<ul>
+<li>Простейшая настройка Shorewall</li>
+<li>Ужасно сложная настройка dnsmasq</li>
+<li>Не менее сложная настройка OpenVPN</li>
+<li>И для многих продолжающих админов нетипичная, динамическая маршрутизация, на примере OSPF</li>
+</ul><br/>
+А во <a href="http://habrahabr.ru/post/274677/">второй</a>:<br/>
+<ul>
+<li>Более подробная настройка Shorewall</li>
+<li>Страшный и не понятный QoS</li>
+<li>Балансировка нагрузки и резервирование</li>
+</ul><br/>
+ <a href="https://habrahabr.ru/post/277983/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 17:23:42 GMT</pubDate>
+		<author>MagicGTS</author>
+		<category><![CDATA[Системное администрирование]]></category><category><![CDATA[Сетевые технологии]]></category><category><![CDATA[Настройка Linux]]></category>
+		<category><![CDATA[linux]]></category><category><![CDATA[shorewall]]></category><category><![CDATA[iptables]]></category><category><![CDATA[openvpn]]></category><category><![CDATA[ospf]]></category><category><![CDATA[quagga]]></category><category><![CDATA[dnsmasq]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[[Перевод] Альтернативы сервису parse.com]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277979/</guid>
+		<link>https://habrahabr.ru/post/277979/</link>
+		<description><![CDATA[<br/>Как известно, в следующем январе <a href="http://blog.parse.com/announcements/moving-on">сервис Parse будет закрыт</a>. Большинство разработчиков ищут альтернативу для этого сервиса. В одном из проектов guthub собралось достаточно много альтернатив, со ссылками и описанием. Перед вами — перевод этой страницы.<br/>
+ <br/>
+<h4>Часть 1: универсальные сервисы</h4> <br/>
+Провайдеры, предоставляющие информацию в реальном времени, помечены (*).<br/>
+ <br/>
+<a href="http://www.anypresence.com/solutions/mbaas">AnyPresence </a>MBaaS (Mobile backend as a service). Упрощает процесс создания мобильных приложений предприятия, работающих на разных устройствах, не ущемляя гибкость средств, доступных разработчику. Легок в использовании даже для неопытных пользователей. Опытные разработчики получают доступ к исходникам всех компонентов.<br/>
+ <br/>
+<a href="https://apiomat.com/">ApiOmat </a>позволяет процессам предприятия работать как мобильным приложениям. Мобилизует сложные бизнес-структуры и процессы путём объединения существующих IT-систем с мобильными приложениями и устройствами. Его можно устанавливать прямо в дата-центре компании, что позволит работникам выполнять свою работу через приложения вне зависимости от их местонахождения.<br/>
+ <br/>
+<a href="http://www.appcelerator.com/mobile-app-development-products/mbaas-arrow">Appcelerator Arrow </a>(*) Состоит из двух основных компонентов, Builder и Cloud. Arrow Builder позволяет быстро создавать API, модели данных и соединители данных как через мастер настройки, так и через написание кода. Arrow Cloud – это эластичный облачный сервис, где выполняются API и происходит анализ их использования, плюс обеспечивается работа двух десятков смежных сервисов (гео, хранение фотографий и т.п.) с использованием ArrowDB<br/>
+ <br/>
+<a href="https://appery.io/backendservices">Appery.io</a> Интегрированные сервисы MBaaS – чтобы разработчики могли сконцентрироваться на приложениях, не отвлекаясь на инфраструктуру.<br/>
+  <a href="https://habrahabr.ru/post/277979/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 16:31:39 GMT</pubDate>
+		<author>SLY_G</author>
+		<category><![CDATA[Разработка под iOS]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Веб-разработка]]></category>
+		<category>parse</category><category>parse.com</category><category>baas</category><category>backend as a service</category><category>бэкенд</category>
+	</item>
+
+		<item>
+		<title><![CDATA[Приглашаем на Data Fest 5 и 6 марта]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277967/</guid>
+		<link>https://habrahabr.ru/post/277967/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/files/4e9/2e6/908/4e92e69084e14ae79c5f1548016dc436.png"/><br/>
+<br/>
+5 и 6 марта в московском офисе компании Mail.Ru Group состоится Data Fest<sup>2</sup> — двухдневная серия митапов российских Data Science-сообществ Moscow Data Fest и Moscow Data Science. Data Fest<sup>2</sup> — это конференция, на которой участникам представится возможность познакомиться с разными направлениями в современном анализе данных: от сугубо практических вопросов внедрения результатов исследований до самых последних теоретических разработок в анализе текстов и глубоком обучении.<br/>
+<br/>
+В рамках конференции также пройдут два мероприятия, где все участники смогут проявить себя: хакатон для желающих посоревноваться друг с другом в предсказании исхода турнира по Dota 2 и питч-постер сессия для исследователей, где можно будет представить результаты своих исследований и разработок.<br/>
+ <a href="https://habrahabr.ru/post/277967/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 15:59:02 GMT</pubDate>
+		<author>pkruglov</author>
+		<category><![CDATA[Машинное обучение]]></category><category><![CDATA[Алгоритмы]]></category><category><![CDATA[Data Mining]]></category><category><![CDATA[Блог компании Mail.Ru Group]]></category>
+		<category><![CDATA[mail.ru]]></category><category><![CDATA[data fest]]></category><category><![CDATA[конференция]]></category><category><![CDATA[data science]]></category><category><![CDATA[анализ данных]]></category><category><![CDATA[kaggle]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Немного о 2FA: Двухфакторная аутентификация]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277901/</guid>
+		<link>https://habrahabr.ru/post/277901/</link>
+		<description><![CDATA[<br/><a href="https://habrahabr.ru/company/1cloud/blog/277901/"><img src="https://habrastorage.org/files/f94/102/cbe/f94102cbecd54b6da1f4df2663e19a07.png" width="700"/></a><br/>
+<br/>
+<i>Cегодня мы решили обратить внимание на тему двухфакторной аутентификации и рассказать о том, как она работает.</i> <a href="https://habrahabr.ru/post/277901/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 15:42:22 GMT</pubDate>
+		<author>1cloud</author>
+		<category><![CDATA[Разработка под e-commerce]]></category><category><![CDATA[Блог компании 1cloud.ru]]></category>
+		<category><![CDATA[2fa]]></category><category><![CDATA[1cloud]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[[recovery mode] Популярные причины падения сайтов]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277367/</guid>
+		<link>https://habrahabr.ru/post/277367/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/files/113/c79/554/113c79554261447ab74d964a9d1af071.png"/><br/>
+<br/>
+Медленная загрузка и некорректная работа сайта, полное падение веб-ресурса или недоступность отдельных страниц – это настоящее бедствие для любого онлайн-бизнеса в независимости от тематики и направления. Теряется трафик, потенциальные клиенты уходят на конкурирующие ресурсы, падают продажи, снижаются seo-показатели и позиции в поисковой выдаче. Эта публикация посвящена обзору наиболее распространенных проблем и типичных «болезней» сайтов, опираясь на опыт сервиса мониторинга доступности сайтов <a href="http://www.host-tracker.com">ХостТрекер</a> и его клиентов.<br/>
+ <a href="https://habrahabr.ru/post/277367/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 15:24:51 GMT</pubDate>
+		<author>smiHT</author>
+		<category><![CDATA[Хостинг]]></category><category><![CDATA[Тестирование веб-сервисов]]></category><category><![CDATA[Блог компании ХостТрекер]]></category>
+		<category><![CDATA[host-tracker]]></category><category><![CDATA[uptime]]></category><category><![CDATA[monitoring]]></category><category><![CDATA[website monitoring]]></category><category><![CDATA[hosting]]></category><category><![CDATA[мониторинг сайта]]></category><category><![CDATA[мониторинг сервера]]></category><category><![CDATA[мониторинг]]></category><category><![CDATA[проверка доступности сайта]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Дополняем реальность]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277965/</guid>
+		<link>https://habrahabr.ru/post/277965/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/files/d41/bb9/dea/d41bb9dead0f42369562da0c23937894.png"/><br/>
+Автор: Игорь Литвиненко, Senior Mobile Developer.<br/>
+<br/>
+Все наверняка слышали о VR-шлемах, создающих эффект присутствия в виртуальном мире. Однако сегодня хотелось бы поговорить не о виртуальной, а о дополненной реальности. Эти понятия важно различать. В шлемах виртуальной реальности все изображение генерируется — такая реальность полностью искусственная. Дополненная же реальность, в отличие от виртуальной, предполагает не создание полностью искусственной реальности, а дополнение видеопотока нашей реальности виртуальными объектами и данными. Таким образом, происходит совмещение виртуального и реального мира. <br/>
+<br/>
+<h3>Основные технологии дополненной реальности</h3><br/>
+<br/>
+Как создается дополненная реальность? Чтобы произошло дополнение определенного реального объекта, нужно этот реальный объект обнаружить в видеопотоке. Это самое важное — после обнаружения объекта уже не составляет труда что-либо дорисовать и как-то его дополнить. Есть разные способы, позволяющие обнаружить нужные объекты, — в основном для этого используются маркеры дополненной реальности. Ниже в эволюционной последовательности перечислены основные способы обнаружения дополняемых объектов:<br/>
+ <a href="https://habrahabr.ru/post/277965/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 15:16:02 GMT</pubDate>
+		<author>DataArt</author>
+		<category><![CDATA[Блог компании DataArt]]></category>
+		<category><![CDATA[программирование]]></category><category><![CDATA[дополненная реальность]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Стартует прием заявок на секцию PHDays VI Young School]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277959/</guid>
+		<link>https://habrahabr.ru/post/277959/</link>
+		<description><![CDATA[<br/><a href="https://habrahabr.ru/company/pt/blog/277959/"><img src="https://habrastorage.org/files/a65/8ad/12d/a658ad12daaa46acaa150e25c2656d79.jpg"/></a><br/>
+<br/>
+Конкурс молодых ученых в рамках ежегодного форума <a href="http://www.phdays.ru/">Positive Hack Days</a> стал хорошей традицией. Подумать только, уже в пятый раз Young School дает начинающим безопасникам возможность представить результаты своих исследований перед ведущими экспертами со всего мира!.. Однако на этот раз мы решили изменить формат Young School: теперь это не конкурс, а секция. <br/>
+<br/>
+Мы рады объявить о приеме заявок. Приглашаем студентов, аспирантов и независимых молодых ученых, ведущих исследования по различным направлениям ИБ. <a href="https://habrahabr.ru/post/277959/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 14:48:01 GMT</pubDate>
+		<author>ptsecurity</author>
+		<category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Блог компании Positive Technologies]]></category>
+		<category><![CDATA[PHDays]]></category><category><![CDATA[positive hack days]]></category><category><![CDATA[информационная безопасность]]></category><category><![CDATA[наука]]></category><category><![CDATA[молодые ученые]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Web. История одной технологии]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277957/</guid>
+		<link>https://habrahabr.ru/post/277957/</link>
+		<description><![CDATA[<br/>Когда-то давно, когда мамонты ещё были живы, а огонь был главным технологическим достижением человечества, наши предки оставляли зарисовки на земле, чтобы сообщить другим племенам, кто тут хозяйничает. Именно так зарождались первые веб-сайты.<br/>
+Об истории одного из наших <a href="https://geekbrains.ru/professions/web_developer?utm_source=habrahabr&amp;utm_medium=affiliate&amp;utm_term=web&amp;utm_campaign=habrahabr_25.02.16">любимых</a> в GeekBrains направлений мы и поговорим. <br/>
+<br/>
+<img src="https://habrastorage.org/files/b77/b7a/159/b77b7a159d634e438fa42e794d4f7351.png"/><br/>
+<br/>
+ <a href="https://habrahabr.ru/post/277957/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 14:02:14 GMT</pubDate>
+		<author>GeekBrains</author>
+		<category><![CDATA[Веб-разработка]]></category><category><![CDATA[PHP]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[CSS]]></category><category><![CDATA[Блог компании GeekBrains]]></category>
+		<category><![CDATA[geekbrains]]></category><category><![CDATA[обучение программированию]]></category><category><![CDATA[веб]]></category><category><![CDATA[Javascript]]></category><category><![CDATA[CSS]]></category><category><![CDATA[PHP]]></category><category><![CDATA[flash]]></category><category><![CDATA[html 4]]></category><category><![CDATA[Joomla]]></category><category><![CDATA[Chrome]]></category><category><![CDATA[адаптивный дизайн]]></category><category><![CDATA[flat-дизайн]]></category><category><![CDATA[параллакс-дизайн]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Что происходит в C++. Интервью с докладчиками и прямая трансляция встречи в Яндексе]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277953/</guid>
+		<link>https://habrahabr.ru/post/277953/</link>
+		<description><![CDATA[<br/>Сегодня в питерском офисе Яндекса пройдет встреча со специалистами по параллельному программированию. К нам придут <a href="https://events.yandex.ru/lib/people/2954774/">Жоэль Фальку</a> из французской Лаборатории исследований в области информатики, <a href="https://events.yandex.ru/lib/people/2954803/">Гор Нишанов</a> из Microsoft и <a href="https://events.yandex.ru/lib/people/3041446/">Кирк Шуп</a>, который работает над Microsoft Azure. Специально для читателей Хабра мы попросили Гора Нишанова и Кирка Шупа рассказать об их личном опыте, отношении к C++, проблемах и развитии языка. <br/>
+<br/>
+<a href="https://habrahabr.ru/company/yandex/blog/277953/"><img src="https://habrastorage.org/files/665/48f/b39/66548fb391304c61956564feec5fe658.jpg"/></a><br/>
+Для тех, кому тема интересна, в 19:20 мы начнем <a href="https://events.yandex.ru/events/cpp-party/25-feb-2016/?utm_source=habr&amp;utm_medium=article&amp;utm_campaign=CppExpertsSPb">видеотрансляцию</a> с мероприятия. Встреча пройдет на английском языке. Прямо на странице трансляции можно будет задавать свои вопросы гостям. Для тех, кто не успеет посмотреть прямой эфир, через некоторое время мы выложим запись. <br/>
+ <a href="https://habrahabr.ru/post/277953/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 14:02:06 GMT</pubDate>
+		<author>Zalina</author>
+		<category><![CDATA[Разработка]]></category><category><![CDATA[Промышленное программирование]]></category><category><![CDATA[Параллельное программирование]]></category><category><![CDATA[C++]]></category><category><![CDATA[Блог компании Яндекс]]></category>
+		<category><![CDATA[яндекс]]></category><category><![CDATA[C++]]></category><category><![CDATA[параллельное программирование]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Технология виртуализации HPE Intelligent Resilient Framework]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277945/</guid>
+		<link>https://habrahabr.ru/post/277945/</link>
+		<description><![CDATA[<br/>Сегодня в ИКТ широко используется технология виртуализации. Она давно вышла за рамки виртуализации серверов, когда на одном физическом сервере работает несколько виртуальных машин. Такой подход, называемый виртуализацией 1:N, применим и к сети: на первом этапе развития сетевых технологий для изолирования логических сегментов использовались технологии VPN или VRF. На следующем уровне развития появилась возможность аппаратной виртуализации, когда на одном физическом коммутаторе запускается несколько образов операционной системы. Такой подход позволяет создать несколько независимых устройств, использующих такие общие ресурсы как управляющие модули (ЦП, память), шасси (фабрики, охлаждение) и система электропитания.<br/>
+<br/>
+Однако возможен и другой вариант: подобно объединению нескольких физических серверов в один логический несколько физических сетевых устройств объединяются в одно легко управляемое логическое устройство. Такой подход называют виртуализацией N:1. Наряду с более простым администрированием, он помогает повысить надежность сети, увеличить плотность портов и дает ряд других преимуществ, о которых мы и расскажем ниже.<br/>
+<br/>
+<a href="https://habrahabr.ru/company/hpe/blog/277945/"><div style="text-align:center;"><img src="https://habrastorage.org/files/b12/31a/6df/b1231a6dfd8948ff810ae5546750a69c.jpg" /></div></a><br/>
+<i><font color="#999999">Виртуализация 1:N (на одной платформе работают несколько виртуальных коммутаторов) и N:1 (несколько физических коммутаторов образуют одно логическое устройство).</font></i><br/>
+ <a href="https://habrahabr.ru/post/277945/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 14:00:13 GMT</pubDate>
+		<author>Mishko</author>
+		<category><![CDATA[ИТ-инфраструктура]]></category><category><![CDATA[Виртуализация]]></category><category><![CDATA[Блог компании Hewlett Packard Enterprise]]></category>
+		<category><![CDATA[виртуализация]]></category><category><![CDATA[HPE]]></category><category><![CDATA[IRF]]></category><category><![CDATA[Intelligent Resilient Framework]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Анатомия вымогателей для Android, часть 2]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277927/</guid>
+		<link>https://habrahabr.ru/post/277927/</link>
+		<description><![CDATA[<br/>В мае 2014 г. специалисты ESET обнаружили первый вымогатель с функцией шифрования файлов для Android под названием Simplocker. Аналогичное вредоносное ПО для Windows ранее уже получило достаточно широкую распространенность и успешно использовалось злоумышленниками для вымогания значительных сумм с их жертв. Среди ярких представителей можно выделить такие семейства как Cryptolocker, Cryptowall, CTB-Locker, Torrentlocker.<br/>
+<br/>
+<img src="https://habrastorage.org/files/fe1/f60/2c5/fe1f602c5333486d889dcf88aa478899.jpg"/><br/>
+<br/>
+После своего запуска на устройстве, вымогатель отображает пользователю сообщение с требованием выкупа, как это показано на рисунке ниже. Шифрование файлов осуществляется Simplocker в отдельном программном потоке. Вредоносная программа <b>Android/Simplocker.A</b> осуществляет поиск на SD-карте определенных типов файлов, таких как изображения, документы, видео со следующими расширениями: JPEG, JPG, PNG, BMP, GIF, PDF, DOC, DOCX, TXT, AVI, MKV, 3GP, MP4. Файлы шифруются с использованием симметричного шифра AES. <br/>
+<br/>
+ <a href="https://habrahabr.ru/post/277927/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 13:49:01 GMT</pubDate>
+		<author>esetnod32</author>
+		<category><![CDATA[Блог компании ESET NOD32]]></category>
+		<category><![CDATA[android]]></category><category><![CDATA[ransomware]]></category><category><![CDATA[malware]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Конкурс студенческих работ по теоретической информатике и дискретной математике им. Алана Тьюринга]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277943/</guid>
+		<link>https://habrahabr.ru/post/277943/</link>
+		<description><![CDATA[<br/><img align="right" src="https://habrastorage.org/files/9f9/4df/100/9f94df100a944cf390dc4d523fbaf772.jpg"/><br/>
+Решили финансово поддержать студентов, которые занимаются теоретическими исследованиями, и организовали <a href="http://mit.spbau.ru/turingcontest">конкурс</a> студенческих работ.<br/>
+<br/>
+<b>Цель конкурса:</b> поощрение авторов лучших студенческих научных работ по теоретической информатике и дискретной математике, стимулирование студентов к научной деятельности.<br/>
+<br/>
+<b>Организаторы конкурса</b>: <a href="http://mit.spbau.ru">Санкт-Петербургский Академический университет</a>, <a href="http://www.pdmi.ras.ru">ПОМИ РАН</a>, <a href="http://compsciclub.ru">Computer Science Club</a>.<br/>
+<br/>
+<b>Участниками конкурса</b> могут стать студенты очной формы обучения (специалисты, бакалавры и магистры) любых российских и зарубежных вузов, имеющие этот статус на 1 апреля года проведения конкурса, свободно владеющие русским языком.<br/>
+<br/>
+На конкурс принимаются научные работы по теоретической информатике и дискретной математике, написанные на математическом уровне строгости на русском или английском языке. Не требуется, чтобы поданная на конкурс работа была опубликована. <a href="https://habrahabr.ru/post/277943/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 13:27:44 GMT</pubDate>
+		<author>avsmal</author>
+		<category><![CDATA[Алгоритмы]]></category><category><![CDATA[Блог компании СПБАУ]]></category>
+		<category><![CDATA[конкурс]]></category><category><![CDATA[теоретическая информатика]]></category><category><![CDATA[дискретная математика]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[[Из песочницы] Введение в Firebase: пишем простое социальное приложение на Swift]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277941/</guid>
+		<link>https://habrahabr.ru/post/277941/</link>
+		<description><![CDATA[<br/>В связи с неожиданным решением Facebook закрыть Parse, многое разработчики задались вопросом, что использовать вместо него. Сегодня практически невозможно представить полностью автономное приложение, которое было бы полезное всем. В связи с этим, iOS разработчики в своей работе пользуются инструментами и ресурсами, предоставленные Apple для доступа к данным. Backend-as-a-service, или сокращенно BaaS является потрясающим инструментом для разработчиков.<br/>
+<br/>
+Среди наилучших и наиболее популярных BaaSs можно выделить Firebase от компании Google. По существу, Firebase является безусловно потрясающим в исполнении, реализации и эксплуатации. Firebase служит базой данных, которая изменяется в реальном времени и хранит данные в JSON. Любые изменения в базе данных тут же синхронизируются между всеми клиентами, или девайсами, которые используют одну и ту же базу данных. Другими словами, обновление в Firebase происходят мгновенно.<br/>
+<br/>
+Вместе с хранилищем, Firebase также предоставляет пользовательскую аутентификацию, и поэтому все данные передаются через защищенное соединение SSL. Мы можем выбрать любую комбинацию email и пароля для аутентификации, будь то Facebook, Twitter, GitHub, Google, или что-то другое.<br/>
+<br/>
+В добавку к iOS SDK, у Firebase есть SDK для Android и JavaScript. Все платформы могут использовать одну базу данных.<br/>
+Сложно представить что Firebase со всеми этими функциями бюджетное решение.<br/>
+<br/>
+На момент написания этой статьи, в бесплатном пакете Firebase может обрабатывать до 100 одновременных соединений. Этого вполне достаточно для работы популярного приложения. За $49 в месяц ограничений на сетевую активность нет.<br/>
+ <a href="https://habrahabr.ru/post/277941/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 12:58:56 GMT</pubDate>
+		<author>Staszoz</author>
+		<category><![CDATA[Разработка под iOS]]></category><category><![CDATA[Swift]]></category><category><![CDATA[Cocoa]]></category>
+		<category>baas</category><category>firebase</category><category>swift</category><category>ios</category><category>cocoa</category><category>разработка под ios</category>
+	</item>
+
+		<item>
+		<title><![CDATA[Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 30. «Максик»]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277939/</guid>
+		<link>https://habrahabr.ru/post/277939/</link>
+		<description><![CDATA[<br/>Привет, Хабрачитатели!<br/>
+Спасибо вам за ваше терпение (когда продирались через корявости перевода, непоследовательность глав и несогласованность имен собственных), лайки и подсказки. (А переводчикам так вообще мегареспект, но об этом будет отдельный пост). У меня хорошая новость — появилась искорка надежды, что книгу издадут в бумаге («ИМФ») и с профессиональным переводом. Нужен ваш отклик (нужно/не нужно/дайте две/выкуплю весь тираж/книги надо жечь). В конце главы — опрос или напишите в личку.<br/>
+<hr/><br/>
+<img src="https://habrastorage.org/files/353/64b/a0e/35364ba0e409475fbd05cd11e8132734.jpg" align="right"/>Кевин Поулсен, редактор журнала WIRED, а в детстве blackhat хакер Dark Dante, написал книгу про «<a href="https://en.wikipedia.org/wiki/Max_Butler">одного своего знакомого</a>».<br/>
+<br/>
+В книге показывается путь от подростка-гика (но при этом качка), до матерого киберпахана, а так же некоторые методы работы спецслужб по поимке хакеров и кардеров.<br/>
+<br/>
+Квест по переводу книги начался летом в ИТишном лагере для старшеклассников — «<a href="http://habrahabr.ru/post/261491/">Шкворень: школьники переводят книгу про хакеров</a>», затем к переводу подключились и Хабраюзеры и даже немного редакция.<br/>
+<br/>
+<h4>Глава 30. «Максик»</h4><i>(за перевод спасибо Игнату Ершову )</i><br/>
+<br/>
+Макс мог видеть, что происходило. С агентом ФБР у руля, DarkMarket шел к тому, чтобы упрятать многих кардеров за решетку. Но, как Кассандра из Греческой мифологии, он был проклят знать будущее, и чтобы никто ему не верил.<br/>
+<br/>
+Между статьей USA Today и его провалившейся попыткой разоблачить Master Splyntr, Макс чувствовал, как жара идет на него. В ноябре он заявил об уходе Iceman’а и устроил шоу с передачей сайта под контроль Th3C0rrupted0ne.<br/>
+Изолировал самого себя от общества пока обстановка не успокоилась и через три недели забрал доску объявлений обратно уже под другим псевдонимом. Iceman умер; да здравствует “Aphex.”<br/>
+<br/>
+Макс устал от тесного жилища в Post Street Towers, потому Крис перетащил Нэнси, одну из его обнальщиц, в Сан Франциско, чтобы снять для Макса однокомнатную в Archstone’овском возвышающемся комплексе корпоративных апартаментов Fox Plaza в деловом районе. Она была поставлена в качестве торгового представителя в Capital Solutions, корпорации напротив Aragon, используемой для отмывания части его прибыли. Ти, вернувшись из поездки в Монголию, получила задание быть в квартире и принять доставку кровати, оплаченной с ее легальной карты American Express. Крис позже рассчитался с ней.<br/>
+<br/>
+К январю 2007 Макс вернулся к делам в своем новом убежище с кучей WiFi, развернутых вокруг. Fox Plaza был гигантским шагом к роскоши по сравнению с Post Street Towers, но Макс мог это себе позволить – он мог оплатить месячную ренту всего после пары успешных дней торговли дампами. Как и Digits, Макс теперь был признан некоторыми кардерами как второй наиболее успешный продавец магнитных полос в мире.<br/>
+<br/>
+Первое место в списке было прочно занято украинцем, известным как Maksik. Maksik работал вне кардерских форумов, запустив свой собственный вебмагазин краденых карт на Maksik.cc. Покупатели сначала отправили бы Maksik предоплату через egold, WebMoney, почтовым переводом или через Western Union. Таким образом, они купили бы доступ к его вебсайту, где они могли уже выбирать дампы, которые хотели по BIN’у и типу карты и месту оформления. Со своей стороны Maksik нажал бы кнопку, чтобы подтвердить транзакцию, и покупатель получил бы электронное письмо с дампами, которые он заказал, прямо из Maksik’овской огромной базы данных похищенных карт. <a href="https://habrahabr.ru/post/277939/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 12:44:25 GMT</pubDate>
+		<author>MagisterLudi</author>
+		<category><![CDATA[Профессиональная литература]]></category><category><![CDATA[Платежные системы]]></category><category><![CDATA[Информационная безопасность]]></category>
+		<category><![CDATA[кардеры]]></category><category><![CDATA[Поулсен]]></category><category><![CDATA[Батлер]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Всё идёт по плану? Планирование в Битрикс24]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/274951/</guid>
+		<link>https://habrahabr.ru/post/274951/</link>
+		<description><![CDATA[<br/>Путешествовать можно налегке, без планов, карт, запасов еды и воды. Обеспечивать себя этим по дороге, тратить время, деньги и нервы, если вдруг сбились с пути. Но с картой и запасами проще, безопаснее и с гораздо меньшими расходами на непредвиденные обстоятельства. А у вашего бизнеса есть карта, запасы ресурсов, распределённая нагрузка? Проще говоря, как у вас с планированием?<br/>
+<br/>
+<a href="https://habrahabr.ru/company/bitrix/blog/274951/"><img src="https://habrastorage.org/files/07c/586/33a/07c58633a3d64643aeb7545179e0b80f.jpg"/></a><br/>
+<br/>
+Хаотичное движение к конечной цели всегда отнимает больше сил и времени, чем чётко запланированные шаги. Недаром сегодня ни одна CRM, ERP и даже ни один багтрекер не обходятся без модуля планирования времени, дел и задач. Команда экспертов <a href="https://www.bitrix24.ru/?utm_source=habrhabr&amp;utm_medium=referral&amp;utm_campaign=habrarticles2">Битрикс24</a> собрала краткую историю болезни компаний, живущих вне плана и разработала методику лечения.<br/>
+ <a href="https://habrahabr.ru/post/274951/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 12:44:17 GMT</pubDate>
+		<author>1cbitrix</author>
+		<category><![CDATA[SaaS / S+S]]></category><category><![CDATA[CRM-системы]]></category><category><![CDATA[Блог компании 1С-Битрикс]]></category>
+		<category><![CDATA[планирование]]></category><category><![CDATA[задачи]]></category><category><![CDATA[совещания]]></category><category><![CDATA[таймкиллеры]]></category><category><![CDATA[управление командой]]></category><category><![CDATA[диаграмма ганта]]></category><category><![CDATA[битрикс24]]></category><category><![CDATA[bitrix24]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Собственный модуль settings]]></title>
+		<guid isPermaLink="true">https://habrahabr.ru/post/277937/</guid>
+		<link>https://habrahabr.ru/post/277937/</link>
+		<description><![CDATA[<br/><h2>Преамбула</h2><br/>
+Этот модуль родился в результате переосмысления (или недопонимания) мной вот этого пространного документа: <a href="https://code.djangoproject.com/wiki/SplitSettings/">Splitting up the settings file</a>, размещённого на официальном сайте Django.<br/>
+<br/>
+<h2>Постановка задачи</h2><br/>
+При старте веб-приложения на Django (как посредством запуска отладочного сервера, так и в качестве WSGI-приложения) фреймворк первым делом выполняет модуль, задающий начальные настройки проекта. Источник кода задаётся переменной окружения <a href="https://docs.djangoproject.com/en/1.8/topics/settings/#envvar-DJANGO_SETTINGS_MODULE">DJANGO_SETTINGS_MODULE</a>. При создании Django-проекта стандартным способом, например:<br/>
+<pre><code class="bash">$ django-admin startproject myproject
+</code></pre>создаётся и модуль настроек. Это файл ‘myproject/myproject/settings.py’. Изменяя и дополняя его, программист настраивает проект, добавляет в него собственные и сторонние компоненты и т. д.<br/>
+<br/>
+В простых проектах, разрабатываемых одним бэкенд-программистом, бывает вполне разумно ограничиться таким модулем настроек. Однако по мере роста проекта возникают следующие  <a href="https://habrahabr.ru/post/277937/#habracut">проблемы...</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 12:26:13 GMT</pubDate>
+		<author>Tanner</author>
+		<category><![CDATA[Веб-разработка]]></category><category><![CDATA[Python]]></category><category><![CDATA[Django]]></category>
+		<category><![CDATA[велосипедостроение]]></category><category><![CDATA[django framework]]></category>
+	</item>
+
+
+
+</channel>
+</rss>

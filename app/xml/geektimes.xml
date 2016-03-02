@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>Geektimes / Все / Тематические публикации</title>
+	<link>https://geektimes.ru/posts/collective/all/</link>
+	<description><![CDATA[Все публикации из тематических хабов на Geektimes]]></description>
+	<language>ru</language>
+	<managingEditor>editor@geektimes.ru</managingEditor>
+	<generator>geektimes.ru</generator>
+	<pubDate>Fri, 26 Feb 2016 01:50:19 GMT</pubDate>
+	<lastBuildDate></lastBuildDate>
+        <image>
+            <link>https://geektimes.ru/</link>
+            <url>https://geektimes.ru/images/logo.png</url>
+            <title>Geektimes</title>
+        </image>
+					<item>
+		<title><![CDATA[На выставочных стендах в Барселоне и Нюрнберге представлены процессорные модули SF-BT1 на базе процессора “Байкал-Т1”]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271664/</guid>
+		<link>https://geektimes.ru/post/271664/</link>
+		<description><![CDATA[<br/>Приветствуем наших уважаемых читателей на страницах блога <a href="http://www.icover.ru/">iCover</a>! В рамках выставочных мероприятий на MWC 2016 и Embedded World, проходящих в Барселоне и Нюрнберге на стендах разработчика Imagination Technologies был представлен процессорный модуль SF-BT1, созданный инженерами отечественной компании «Т-Платформы». Модуль создан на базе российского процессора “Байкал-Т1” компании «Байкал Электроникс» и позиционируется как ключевой элемент экосистемы для перспективного встраиваемого оборудования. Как обещают его создатели, SF-BT1 существенно облегчит жизнь разработчикам. <br/>
+<br/>
+<img src="https://habrastorage.org/getpro/geektimes/post_images/469/ea0/30d/469ea030db3472eb95f17044a23b4d66.jpg" alt="image"/><br/>
+ <a href="https://geektimes.ru/post/271664/#habracut">Подробнее</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 23:55:57 GMT</pubDate>
+		<author>icover</author>
+		<category><![CDATA[Процессоры]]></category><category><![CDATA[Настольные компьютеры]]></category><category><![CDATA[Интернет вещей]]></category><category><![CDATA[Железо]]></category><category><![CDATA[Блог компании iCover.ru]]></category>
+		<category><![CDATA[MIPS Warrior P5600]]></category><category><![CDATA[“Байкал-Т1”]]></category><category><![CDATA[&quot;Т-Платформы&quot;]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Система проветривания комнаты на основе «малинки» и «Детектора СО2»]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271666/</guid>
+		<link>https://geektimes.ru/post/271666/</link>
+		<description><![CDATA[<br/>Мода на умные дома захлестнула весь интернет, каждый нынче хочет сделать лампочку, которая умеет выключаться через интернет или пощёлкать вентилятором в туалете. Мой опыт был достаточно прост: я хотел сделать систему, которая умеет автоматически проветривать комнату, ни больше, ни меньше. <br/>
+<br/>
+После обдумывания принципа работы системы пришел к некоторым выводам, которые и решил реализовать. По задумке, весь функционал системы делится на три составляющие: «мозги» которые всем управляют, система открывания форточки/или включение вентилятора и сам датчик который следит за качеством воздуха в помещении. Вот о сенсоре качества воздуха далее я и расскажу, плюс немного затрону тему интеграции его с “мозгами” умного дома.<br/>
+ <a href="https://geektimes.ru/post/271666/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 23:44:53 GMT</pubDate>
+		<author>alliv</author>
+		<category><![CDATA[Умный дом]]></category><category><![CDATA[Здоровье гика]]></category><category><![CDATA[Гаджеты]]></category><category><![CDATA[Блог компании Даджет]]></category>
+		<category><![CDATA[со2]]></category><category><![CDATA[гаджеты]]></category><category><![CDATA[углекислый газ]]></category><category><![CDATA[проветривание комнаты]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Млечный Путь изучили в субмиллиметровом диапазоне. Проект ATLASGAL завершен]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271662/</guid>
+		<link>https://geektimes.ru/post/271662/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/getpro/geektimes/post_images/a5d/540/2c1/a5d5402c1d8231ba16ffd8141f122330.jpg"/><br/>
+<br/>
+Астрономы опубликовали в Сети фотографию нашей Галактики, которая была получена при помощи радиотелескопа <a href="http://www.apex-telescope.org/">APEX</a> в рамках проекта <a href="https://www.eso.org/public/news/eso1606/">ATLASGAL</a> (APEX Telescope Large Area Survey of the Galaxy). Этот телескоп работает на высоте 5100 метров над уровнем моря в пустыне Атакама, Чили. <br/>
+<br/>
+Благодаря особым климатическим условиям и ландшафту местности ученые смогли получить детальное изображение распределения холодного и плотного газа в Млечном Пути. Также астрономы подсчитали общую массу пыли в части Галактики, доступной для наблюдения в южном полушарии нашей планеты. <br/>
+ <a href="https://geektimes.ru/post/271662/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 20:51:58 GMT</pubDate>
+		<author>marks</author>
+		<category><![CDATA[Научно-популярное]]></category><category><![CDATA[Астрономия]]></category>
+		<category><![CDATA[млечный путь]]></category><category><![CDATA[вселенная]]></category><category><![CDATA[галактика]]></category><category><![CDATA[APEX]]></category><category><![CDATA[телескоп]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Следственный комитет РФ: признание биткоина в России чревато обрушением финансового рынка]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271660/</guid>
+		<link>https://geektimes.ru/post/271660/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/getpro/geektimes/post_images/594/886/cee/594886cee673d98a0e5f6c715e88c60b.jpg"/><br/>
+<i>Фото: AP Photo/ Mark Lennihan</i><br/>
+<br/>
+По мнению представителя главного организационно-инспекторского управления Следственного комитета России (СКР) Георгия Смирнова признание в России криптовалют может привести к непредсказуемым последствиям на финансовом рынке страны. Аналогичный эффект может иметь и начало легального свободного обращения биткоинов, <a href="http://ria.ru/economy/20160225/1380263892.html">пишут</a> «РИА Новости». <br/>
+<br/>
+«Какие последствия может привнести для финансовой системы неограниченная эмиссия денежных суррогатов? Расширение денежной массы за счет суррогатов, если они приобретут широкое распространение, может привести к непредсказуемым последствиям на денежном рынке. А они приобретут широкое распространение, потому что имеют конкурентный приоритет над (официальными) деньгами», — сообщил Смирнов во время выступления в Государственной Думе на заседании рабочей группы, посвященном правовому регулированию выпуска и оборота криптовалюты в России.<br/>
+ <a href="https://geektimes.ru/post/271660/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 19:49:59 GMT</pubDate>
+		<author>marks</author>
+		<category><![CDATA[Криптовалюты]]></category>
+		<category><![CDATA[биткоин]]></category><category><![CDATA[криптовалюты]]></category><category><![CDATA[россия]]></category><category><![CDATA[финансовый рынок]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Обзор 8-дюймового «термоядерного» планшета bb-mobile Topol' LTE]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271650/</guid>
+		<link>https://geektimes.ru/post/271650/</link>
+		<description><![CDATA[<br/>Нашумевший на рубеже 2014 и 2015 гг. bb-mobile Topol', ставший первым восьмиядерным планшетом в России, претерпел изменения и стал ещё лучше. Теперь на рынке появился bb-mobile Topol' LTE, который обзавелся поддержкой высокоскоростного интернета, получил слот для ещё одной SIM-карты и работает под управлением Android 5.1 Lollipop. Обновленный гаджет по своим характеристикам стал мощнее, надежнее и современнее. Стоимость устройства составляет 14 990 рублей, интересно посмотреть, как новый «Тополь», получивший своё название в честь ракетного комплекса, проявит себя в играх и других дисциплинах повседневного пользовательского «спорта»: просмотре сериалов на выживание, чтении взахлеб и веб-серфинге до потери связи с реальностью.  Игровой восьмидюймовый планшет с хорошим дисплеем и впечатляющими камерами будет героем сегодняшнего обзора.<br/>
+ <br/>
+<a href="https://geektimes.ru/company/bb-mobile/blog/271650/"><img src="https://habrastorage.org/getpro/geektimes/post_images/148/7bd/e0f/1487bde0f23d63c8a29ee67424845866.jpg"/></a><br/>
+ <a href="https://geektimes.ru/post/271650/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 15:00:06 GMT</pubDate>
+		<author>bbCitizen</author>
+		<category><![CDATA[Планшеты]]></category><category><![CDATA[Гаджеты]]></category><category><![CDATA[Блог компании bb-mobile]]></category>
+		<category><![CDATA[планшет]]></category><category><![CDATA[bb-mobile]]></category><category><![CDATA[LTE]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[This is Science: плазмонный камуфляж — уже реальность]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271648/</guid>
+		<link>https://geektimes.ru/post/271648/</link>
+		<description><![CDATA[<br/><div style="text-align:center;"><img src="https://habrastorage.org/files/13c/67a/f29/13c67af2990343ff849f8a658305d3b3.jpg"  width="600"/></div><br/>
+Привет всем любителям новостей науки и технологий!<br/>
+<br/>
+Сегодня мы поговори о плазмонном хамелеоне, о реальном можно почерпнуть <a href="https://geektimes.ru/post/247138/">тут</a>. <br/>
+<br/>
+Любой металл – это прежде всего массив свободно движущихся электронов, своеобразный резервуар с электронным газом. А металл, находящийся в наноразмерном состоянии, обладает одним удивительным свойством – <a href="https://en.wikipedia.org/wiki/Surface_plasmon_resonance">плазмонным резонансом</a>. Группа китайских учёных совместно с американскими коллегами использовала эту особенность наночастиц при создании плазмонного камуфляжа. <br/>
+<br/>
+О том, что же это такое и с чем это едят, Вы узнаете под катом.<br/>
+ <a href="https://geektimes.ru/post/271648/#habracut">Цветные подробности</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 14:32:46 GMT</pubDate>
+		<author>Tiberius</author>
+		<category><![CDATA[Химия]]></category><category><![CDATA[Физика]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Нанотехнологии]]></category><category><![CDATA[Будущее здесь]]></category>
+		<category><![CDATA[нанотехнологии]]></category><category><![CDATA[nanotech]]></category><category><![CDATA[наночастицы]]></category><category><![CDATA[оптика]]></category><category><![CDATA[физика]]></category><category><![CDATA[наука]]></category><category><![CDATA[наука и технологии]]></category><category><![CDATA[this is science]]></category><category><![CDATA[science]]></category><category><![CDATA[зеркало]]></category><category><![CDATA[хамелеон]]></category><category><![CDATA[химия]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Z-Wave замок в помощь небольшому офису или дому]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/270988/</guid>
+		<link>https://geektimes.ru/post/270988/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/files/7c6/60e/496/7c660e4965854885a2c372929b4e61a1.jpg"/><br/>
+<br/>
+Если вы владеете небольшим офисом на 10-15 человек, то вы бы хотели знать, когда приходят ваши сотрудники, пришла ли уборщица вечером. Не лишним было бы автозакрытие замка, чтобы никто из свидетелей Посейдона случайно не пробрались, а также выдача временных кодов для посетителей.<br/>
+<br/>
+Есть множество профессиональных СКУД, где с помощью карточки можно открыть дверь, но в таком случае требуется врезание в дверь специального механизма, подведение проводов питания, установка считывателя в стену. Это не очень дешево и иногда такую систему невозможно установить, например если арендатор не разрешает вносить изменения в отделку или в здании, представляющем историческую ценность.<br/>
+<br/>
+На помощь приходят устройства из умного дома Z-Wave!<br/>
+<br/>
+<h3> Устройства системы контроля доступом</h3><br/>
+<ol>
+<li><b>Замок Vision</b> на батарейках, устанавливается на место существующего дверного замка. Замок всегда сообщает о изменении своего состояния, как бы вы его не открыли: радио-командой, кодом или ключом. <br/>
+<br/>
+<b>Характеристики замка Vision:</b><br/>
+ <ol>
+<li>Возможность открыть Z-Wave командой (шифрование AES128), с помощью кодовой панели и обычного ключа</li>
+<li>Если открыть ключом или защелкой, сообщает на контроллер о своем состоянии «открыт/закрыт»</li>
+<li>Сообщает на контроллер номер кода, которым открыли дверь</li>
+<li>Ведет журнал событий. Если неправильно вводили код, вы узнаете об этом</li>
+<li>13 кодов</li>
+<li>Работа от батареек 4xAA до года (зависит от того как часто используется замок)</li>
+</ol><br/>
+В комплекте с Z-Wave контроллером <a href="https://geektimes.ru/company/zwave/blog/257872/">RaZberry</a> и датчиком открытия возможно использовать функции Автозакрытия, Удаленного управления, Логирования событий и многие другие.<br/>
+ <img src="https://habrastorage.org/files/f76/de6/81c/f76de681c839456f8b10683ffad7bbb5.png" width="33%"/><br/>
+</li>
+<br/>
+</ol> <a href="https://geektimes.ru/post/270988/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 13:00:57 GMT</pubDate>
+		<author>aivs</author>
+		<category><![CDATA[Умный дом]]></category><category><![CDATA[Интернет вещей]]></category><category><![CDATA[Гаджеты]]></category><category><![CDATA[Блог компании Z-Wave.Me]]></category>
+		<category><![CDATA[razberry]]></category><category><![CDATA[z-wave]]></category><category><![CDATA[умный дом]]></category><category><![CDATA[smart home]]></category><category><![CDATA[IoT]]></category><category><![CDATA[замок]]></category><category><![CDATA[контроль доступа]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Проект «Око» ч.16]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271646/</guid>
+		<link>https://geektimes.ru/post/271646/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/files/a2f/326/287/a2f326287788449db4eeb2048457c4e2.jpg"/><br/>
+<i><sub>Фото: <a href="http://vk.com/aleksandra_volf">A.V. Photography</a></sub></i><br/>
+<br/>
+<i>Приближающаяся весна вернула вдохновение.</i><br/>
+<br/>
+<h4><div class="spoiler"><b class="spoiler_title">Ссылки на предыдущие части и обращение к тем, кто видит публикации Ока впервые:</b><div class="spoiler_text">Око — мой личный литературный проект, работу над которым я начал в мае <s>этого</s> 2015 года. Из небольшой зарисовки он перерос в научно-фантастическое произведение, главы которого я выкладываю, по мере написания, на GT.<br/>
+<br/>
+<b>Предыдущие части:</b><br/>
+<br/>
+<b><a href="http://geektimes.ru/post/250508/">Часть 1</a><br/>
+<a href="http://geektimes.ru/post/250838/">Часть 2</a><br/>
+<a href="http://geektimes.ru/post/251218/">Часть 3</a><br/>
+<a href="http://geektimes.ru/post/251870/">Часть 4</a><br/>
+<a href="http://geektimes.ru/post/252166/">Часть 5</a><br/>
+<a href="http://geektimes.ru/post/252680/">Часть 6</a><br/>
+<a href="http://geektimes.ru/post/253094/">Часть 7</a><br/>
+<a href="http://geektimes.ru/post/259592/">Часть 8</a><br/>
+<a href="http://geektimes.ru/post/260168/">Часть 9</a><br/>
+<a href="http://geektimes.ru/post/260640/">Часть 10</a><br/>
+<a href="http://geektimes.ru/post/261080/">Часть 11</a><br/>
+<a href="http://geektimes.ru/post/261934/">Часть 12</a><br/>
+<a href="http://geektimes.ru/post/262742/">Часть 13</a><br/>
+<a href="http://geektimes.ru/post/263820/">Часть 14</a><br/>
+<a href="https://geektimes.ru/post/264944/">Часть 15</a><br/>
+</b></div></div></h4><br/>
+ <a href="https://geektimes.ru/post/271646/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 12:54:30 GMT</pubDate>
+		<author>ragequit</author>
+		<category><![CDATA[Читальный зал]]></category><category><![CDATA[Научная фантастика]]></category><category><![CDATA[Киберпанк]]></category>
+		<category><![CDATA[чтиво]]></category><category><![CDATA[научная фантастика]]></category><category><![CDATA[киберпанк]]></category><category><![CDATA[антиутопия]]></category><category><![CDATA[проект око]]></category><category><![CDATA[творчество]]></category><category><![CDATA[книга.]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Технологии Dell и Фонд ООН делают мир лучше]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271588/</guid>
+		<link>https://geektimes.ru/post/271588/</link>
+		<description><![CDATA[<br/>Фонд ООН выполняет важную миссию. Он помогает Организации Объединенных Наций решать глобальные задачи по защите окружающей среды и здоровья людей, сохранению мира и безопасности, снижению уровня бедности и поддержке женщин. Фонд наращивает связи, собирает ресурсы и помогает тем, кто хочет приносить пользу планете. <br/>
+<img src="https://habrastorage.org/files/e59/787/145/e597871457454bc0839d1aa01763fd32.jpg"/><br/>
+Сегодня в нем работают более 300 человек. Они находятся в разных странах и нуждаются в гибком, но стабильном доступе к рабочим документам и приложениям. Тем не менее, организовать глобальную работу оказалось достаточно трудно, поскольку большая часть штата не могла получать удобный удаленный доступ к данным. Фонд нуждался и в усилении мер безопасности, ведь аудиторы регулярно проводят проверку перечисленных средств и грантов и хотят быть уверенными в защите финансовой информации. Организации также необходимо было построить новую IT-инфраструктуру и создать дата-центр для нового вашингтонского офиса. Разумеется, эта инфраструктура должна легко масштабироваться и быть актуальной еще по меньше мере пять лет. <br/>
+ <a href="https://geektimes.ru/post/271588/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 12:30:15 GMT</pubDate>
+		<author>DellTeam</author>
+		<category><![CDATA[Сетевое оборудование]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Железо]]></category><category><![CDATA[Блог компании Dell]]></category>
+		<category><![CDATA[latitude]]></category><category><![CDATA[data protection]]></category><category><![CDATA[poweredge]]></category><category><![CDATA[storage]]></category><category><![CDATA[secureworks]]></category><category><![CDATA[KACE]]></category><category><![CDATA[dell prosupport]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Маркиз, да вы перещеголяли самого короля! XIAOMI на MWS-2016]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271642/</guid>
+		<link>https://geektimes.ru/post/271642/</link>
+		<description><![CDATA[<br/>Ещё задолго до Mobile World Congress в Барселоне ходили слухи о новинках XIAOMI, крупнейшего китайского производителя смартфонов. И если появление нового флагмана Mi5 было относительно предсказуемо, то информация о модификации Mi4 до Mi4S, действительно, больше походила на слухи и невнятные догадки. Однако сегодня завеса таинственности пала и китайский производитель представил обе новинки. Новость быстро разлетелась по миру, вместе с характеристиками и первыми впечатлениями. <br/>
+<br/>
+<a href="https://geektimes.ru/company/gearbest/blog/271642/"><img src="https://habrastorage.org/files/3a0/32b/61b/3a032b61b0ee4a148bc9d84dd0e56815.jpg"/></a><br/>
+<br/>
+Поскольку флагманы поступят в продажу совсем скоро и точно появятся в <a href="http://www.gearbest.com/">Gearbest</a>, мы собрали максимум информации и спешим поделиться ею с вами.<br/>
+ <a href="https://geektimes.ru/post/271642/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 12:21:58 GMT</pubDate>
+		<author>gearbest</author>
+		<category><![CDATA[Смартфоны]]></category><category><![CDATA[Гаджеты]]></category><category><![CDATA[Блог компании Gearbest.com]]></category>
+		<category><![CDATA[MWS]]></category><category><![CDATA[MWS-2016]]></category><category><![CDATA[XIAOMI]]></category><category><![CDATA[RedMi]]></category><category><![CDATA[Mi4]]></category><category><![CDATA[Mi4S]]></category><category><![CDATA[Mi5]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[DIY: Робот-подводная лодка для исследования акватории Москвы-реки. Часть 1]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/267450/</guid>
+		<link>https://geektimes.ru/post/267450/</link>
+		<description><![CDATA[<br/>Это краткая история создания подводного автономного робота менеджером очень среднего звена. Текущей целью является создание актуальной карты фарватера Москвы-реки. При поиске нет проблем найти <a href="http://www.etomesto.ru/map-moskva-reka_lociya/?x=37.555138&amp;y=55.736187">такую карту</a>, но вызывает вопрос ее актуальность. Русло реки постоянно меняется. Происходит эрозия берегов реки и меняется карта фарватера. Эти процессы особенно заметны, учитывая питание Москвы-реки снеговое (61 %), грунтовое (27 %) и дождевое (12 %). Конечной целью является создание многофункционального подводного робота для исследование морских глубин. Мировой океан, покрывающий 2/3 поверхности Земли, изучен всего на 5%. Для создания автономного робота нужен простой «автопилот». <br/>
+<br/>
+<h3>Как сделать доступный и простой автопилот для DIY-проектов и проплыть на нем по Москве-реке?</h3><br/>
+<img src="https://habrastorage.org/files/c06/fe9/fa0/c06fe9fa0877476db8c1a6ce9bb2c597.jpg"/><br/>
+<br/>
+ <a href="https://geektimes.ru/post/267450/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 12:09:31 GMT</pubDate>
+		<author>webzuweb</author>
+		<category><![CDATA[DIY или Сделай сам]]></category><category><![CDATA[Arduino]]></category><category><![CDATA[Android]]></category><category><![CDATA[Блог компании Битва робокосилок]]></category>
+		<category><![CDATA[Робот]]></category><category><![CDATA[подводная лодка]]></category><category><![CDATA[android]]></category><category><![CDATA[arduino]]></category><category><![CDATA[diy]]></category><category><![CDATA[diy или сделай сам]]></category><category><![CDATA[велосипедостроение]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Суд подтвердил взлом Tor специалистами университета Карнеги-Меллон и передачу полученных данных ФБР]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271644/</guid>
+		<link>https://geektimes.ru/post/271644/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/getpro/geektimes/post_images/3db/5aa/320/3db5aa3204d068703cb1180884417d98.png"/><br/>
+<br/>
+Слухи о том, что исследователи из университета Карнеги-Меллон смогли взломать сеть Tor в 2014 году, получив ряд реальных IP пользователей сети, наконец, <a href="http://gizmodo.com/judge-confirms-carnegie-mellon-hacked-tor-and-provided-1761191933">подтвердились</a>. Данные, полученные в ходе этого взлома, были переданы ФБР — эта информация также подтверждена. Пока что нет ясности в том, как происходил сам процесс взлома, отсутствуют основные технические детали (что можно понять). <br/>
+<br/>
+Известно, что информация, о которой идет речь выше, была собрана во время проведения атаки на Tor длительностью в несколько месяцев, в 2014 году. Атака была осуществлена по заказу Министерства Обороны США, которое и оплачивало всю работу. <br/>
+ <a href="https://geektimes.ru/post/271644/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 11:56:14 GMT</pubDate>
+		<author>marks</author>
+		<category><![CDATA[Информационная безопасность]]></category>
+		<category><![CDATA[tor project]]></category><category><![CDATA[фбр]]></category><category><![CDATA[silk road]]></category><category><![CDATA[вот это все]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[[Тестирование] Высокочастотная оперативная память — актуальная и своевременная помощь интегрированному графическому ядру]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271308/</guid>
+		<link>https://geektimes.ru/post/271308/</link>
+		<description><![CDATA[<br/><b>Привет, Гиктаймс!</b> Стреляного воробья на мякине не проведешь, и опытному железячнику доказать пользу интегрированного ядра и высокочастотной оперативной памяти практически невозможно. Тем не менее, за 2015 год был осуществлен существенный прорыв в графике Intel и под катом я предлагаю оценить — насколько влияет частота оперативной памяти на производительность графического ядра GT3e (оно же Iris Pro 6200), встроенного в процессор Intel Core i7-5775C.<br/>
+<br/>
+<a href="https://geektimes.ru/company/kingston_technology/blog/271308/"><img src="https://habrastorage.org/files/db0/f8c/6a1/db0f8c6a1b8f4b1ebbbe08d98f1f5de8.jpg"/></a> <a href="https://geektimes.ru/post/271308/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 11:33:56 GMT</pubDate>
+		<author>Kingston_Technology</author>
+		<category><![CDATA[Настольные компьютеры]]></category><category><![CDATA[Железо]]></category><category><![CDATA[Блог компании Kingston Technology]]></category>
+		<category><![CDATA[hyperx]]></category><category><![CDATA[savage]]></category><category><![CDATA[fury]]></category><category><![CDATA[ddr3]]></category><category><![CDATA[ddr3l]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Брянским врачам запретили работать с соцсетями и зарубежными коммуникационными сервисами]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271640/</guid>
+		<link>https://geektimes.ru/post/271640/</link>
+		<description><![CDATA[<br/>В официальном письме, которое было разослано главным врачам медицинских организаций директором департамента здравоохранения Брянской области Андреем Бардуковым, медикам Брянской области запрещают использовать ряд зарубежных коммуникационных сервисов и мессенджеров. В частности, врачам запретили работать с картографическим сервисом Google, а также с Gmail, Yahoo, мессенджерами WhatsApp, Viber, ICQ, <a href="http://izvestia.ru/news/604973">пишут</a> «Известия». При этом оставлена возможность работать с ресурсами «Яндекса» и Mail.Ru Group. <br/>
+<br/>
+«Рассмотреть вопрос об использовании корпоративных сервисов департамента здравоохранения. При отсутствии технической возможности использовать сервисы, технические средства которых размещены на территории Российской Федерации, например Mail.ru или Yandex.ru, Исключить использование браузеров Google Chrome и Safari», — пишет Бардуков в письме. Факт рассылки такого письма подтвердила исполнитель этого поручения, директор Медицинского информационно-аналитического центра Елена Крень. <br/>
+ <a href="https://geektimes.ru/post/271640/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 11:07:04 GMT</pubDate>
+		<author>marks</author>
+		<category><![CDATA[Социальные сети и сообщества]]></category><category><![CDATA[Регулирование интернета]]></category>
+		<category><![CDATA[интернет]]></category><category><![CDATA[регулирование инернета]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Полиция Германии будет использовать собственный «федеральный троян»]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271638/</guid>
+		<link>https://geektimes.ru/post/271638/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/getpro/habr/post_images/874/659/79d/87465979dc6489822ae6253035d013b3.jpg" alt="image"/><br/>
+<br/>
+Федеральное министерство внутренних дел Германии одобрило использование в расследованиях шпионский троян, разработанный федеральным управлением уголовной полиции (так называемый «федеральный троян»). Как <a href="http://www.dw.com/en/german-government-to-use-trojan-spyware-to-monitor-citizens/a-19066629">сообщает издание Deutsche Welleсо</a> со ссылкой на представителя министерства внутренних дел страны, правовая экспертиза и технические проверки уже завершены. Разрешение на применение программы было дано в понедельник, 22 февраля, <a href="https://vk.com/away.php?to=https%3A%2F%2Fwww.helpnetsecurity.com%2F2016%2F02%2F23%2Fgerman-police-allowed-to-use-its-own-federal-trojan%2F">сообщает helpnetsecurity.com</a>.<br/>
+<br/>
+Полиции, чтобы получить постановление суда на использование шпионского трояна, необходимо будет доказать, что под угрозой находятся жизнь и здоровье людей, интересы государства или государственная безопасность.<br/>
+ <a href="https://geektimes.ru/post/271638/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 10:41:59 GMT</pubDate>
+		<author>ragequit</author>
+		<category><![CDATA[Информационная безопасность]]></category>
+		<category><![CDATA[Троян]]></category><category><![CDATA[вирусы]]></category><category><![CDATA[слежка]]></category><category><![CDATA[персональные данные]]></category><category><![CDATA[защита персональных данных]]></category><category><![CDATA[приватность]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Samsung представил скоростные чипы памяти объемом в 256 ГБ для планшетов и смартфонов]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271636/</guid>
+		<link>https://geektimes.ru/post/271636/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/getpro/geektimes/post_images/6a0/299/453/6a0299453c6738ff092eb55f9804c0be.jpg"/><br/>
+<br/>
+В скором времени памяти на наших мобильных устройствах может стать очень много. Конечно, свободного места всегда мало, но производители мобильных чипов над этим работают. В частности, корпорация Samsung <a href="http://liliputing.com/2016/02/samsung-introduces-256gb-high-speed-storage-for-smartphones-tablets.html">выпустила</a> новые емкие скоростные чипы памяти для планшетов и смартфонов. По мнению компании, они будут использоваться в устройствах следующего поколения. <br/>
+<br/>
+Новая память основана на стандарте Universal Flash Storage 2.0, и по словам представителей Samsung, это позволяет говорить о двукратном увеличении скорости передачи данных по сравнению с SATA SSD. Скорость чтения здесь 805 МБ/с, записи — вплоть до 260 МБ/с. <br/>
+ <a href="https://geektimes.ru/post/271636/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 10:37:47 GMT</pubDate>
+		<author>marks</author>
+		<category><![CDATA[Смартфоны]]></category><category><![CDATA[Планшеты]]></category><category><![CDATA[Накопители]]></category><category><![CDATA[Гаджеты]]></category>
+		<category><![CDATA[память]]></category><category><![CDATA[чипы памяти]]></category><category><![CDATA[samsung]]></category><category><![CDATA[256 ГБ]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Обзор SSD-накопителя OCZ Trion 100]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271626/</guid>
+		<link>https://geektimes.ru/post/271626/</link>
+		<description><![CDATA[<br/>Проникновение твердотельных накопителей в нижние сектора рынка идет туго, и причиной тому значительная цена электронной начинки. Есть те, кому дешевой 128-гигабайтной модели на SandForce от малоизвестного производителя более чем достаточно, но всех поголовно такое решение не устроит. Для раскрытия всех плюсов SSD нужен и контроллер, способный эффективно работать не только на потоковых операциях чтения/записи, и объем нормальный, дабы рядом с Windows и Office установить два-три крупных программных пакета или современных игры.<br/>
+<br/>
+Нынешняя компания OCZ (точнее, Toshiba's OCZ), как и прошлая компания OCZ считает рынок накопителем одним из главных для себя, а потому регулярно обновляет линейку продукции. Не так давно (по общечеловеческим меркам) на рынок вышла бюджетная модель OCZ Trion в четырех разновидностях – на 120, 240, 480 и 960 гигабайт.<br/>
+<br/>
+<a href="https://geektimes.ru/company/ocz/blog/271626/"><img src="https://habrastorage.org/getpro/geektimes/post_images/e2b/788/79a/e2b78879af819e25d99b814e6ab40f4b.jpg"/></a><br/>
+ <a href="https://geektimes.ru/post/271626/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 10:37:01 GMT</pubDate>
+		<author>OCZ</author>
+		<category><![CDATA[Накопители]]></category><category><![CDATA[Железо]]></category><category><![CDATA[Блог компании OCZ Storage Solutions]]></category>
+		<category><![CDATA[OCZ]]></category><category><![CDATA[Trion]]></category><category><![CDATA[Trion 100]]></category><category><![CDATA[SSD]]></category><category><![CDATA[накопитель]]></category><category><![CDATA[обзор]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Opera Presto обновилась до версии 12.18]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271634/</guid>
+		<link>https://geektimes.ru/post/271634/</link>
+		<description><![CDATA[<br/>Многие поклонники браузера Opera были удручены сменой движка с Presto на Blink в 2013 году. Потеря огромного количества функционала, делавшего Opera Presto уникальным браузером, гораздо большая прожорливость оперативной памяти в Blink версии — вот две основные причины негодования старых пользователей.<br/>
+<br/>
+<img src="https://habrastorage.org/getpro/geektimes/post_images/153/750/2c3/1537502c3f16edfd4f5a776a315be482.png" alt="image"/><br/>
+<br/>
+Последнее обновление Opera Presto версии 12.17 вышло в 2014 году и было как бы последним. Ничто не предвещало, особенно на фоне <a href="https://habrahabr.ru/post/276955/">новости о покупке компании китайцами</a>, и вот, внезапно, <a href="http://www.opera.com/blogs/security/2016/02/opera-12-and-opera-mail-security-update/">наш любимый браузер обновляется до версии 12.18</a>.<br/>
+ <a href="https://geektimes.ru/post/271634/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 10:36:02 GMT</pubDate>
+		<author>Mario_Z</author>
+		<category><![CDATA[Софт]]></category><category><![CDATA[Браузеры]]></category>
+		<category><![CDATA[opera]]></category><category><![CDATA[opera presto]]></category><category><![CDATA[presto]]></category><category><![CDATA[opera 12.18]]></category><category><![CDATA[возвращение легенды]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[От идеи до реализации. Часть вторая — рождение идеи]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271632/</guid>
+		<link>https://geektimes.ru/post/271632/</link>
+		<description><![CDATA[<br/>Данилевский Кирилл<br/>
+<br/>
+Привет, дорогие читатели. В прошлой статье &quot;<a href="http://geektimes.ru/post/271460/">От идеи до реализации. Часть первая — неудача</a>&quot; я написал пример из жизни, как реально начинался проект, и как все закончилось.<br/>
+<br/>
+В этой же статье, речь уже пойдет о самом первом шаге, с которого фактически все и начинается. Хочу заранее оговориться, что не стоит воспринимать мои статьи, как справочное пособие или руководство к действиям. Я пишу сугубо аналитический материал. Грубо говоря, мысли в слух, в которых я пытаюсь проанализировать причину и следствие.<br/>
+<br/>
+Итак, рождение идеи. Позволю себе немного отвлечься, и вспомнить интересный фильм с Ди Каприо — «Начало». Кто смотрел, тот помнит, что именно идея являлась ключом к победе. Именно она поражала мозг назойливым желанием к осуществлению некого действия. И именно с нее все и начинается.<br/>
+<br/>
+Здесь бы я разбил процесс появления начальной идеи, для осуществления нового проекта или стартапа, на несколько составляющих частей:<br/>
+ <a href="https://geektimes.ru/post/271632/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 10:21:33 GMT</pubDate>
+		<author>Kirill_Dan</author>
+		<category><![CDATA[Мозг]]></category><category><![CDATA[История ИТ]]></category><category><![CDATA[IT-Биографии]]></category><category><![CDATA[DIY или Сделай сам]]></category>
+		<category><![CDATA[идея для стартапа]]></category><category><![CDATA[стартап]]></category><category><![CDATA[проектирование]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[[Из песочницы] Долой лень, пора тренироваться! ЗОЖ c мобильными приложениями]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271628/</guid>
+		<link>https://geektimes.ru/post/271628/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/files/089/7a8/072/0897a80721ff476883cab1170e5a0575.jpg"/><br/>
+ <a href="https://geektimes.ru/post/271628/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 10:07:10 GMT</pubDate>
+		<author>vanhock</author>
+		<category><![CDATA[Здоровье гика]]></category><category><![CDATA[Android]]></category>
+		<category>здоровье</category><category>здоровый образ жизни</category><category>здоровый сон</category><category>приложения для android</category><category>фитнес-трекеры</category><category>фитнес</category><category>фитнес-браслеты</category><category>фитнес-приложения</category><category>питание</category>
+	</item>
+
+		<item>
+		<title><![CDATA[VRToday — Всё об индустрии виртуальной реальности. Выпуск #1]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271624/</guid>
+		<link>https://geektimes.ru/post/271624/</link>
+		<description><![CDATA[<br/><b>Виртуальная реальность</b> — тренд 2016 года, с этим тяжело поспорить. <i>Facebook, Samsung, Microsoft, Google, HTC/Valve, SONY, Apple, NVIDIA</i> и еще множество крупнейших мировые компаний, включившихся в гонку тому доказательство. К сожалению, осведомленность конечных пользователей и потребителей темы VR в мире пока еще оставляет желать лучшего. В России всё обстоит ещё сложнее. Крупные СМИ только начинают активно интересоваться темой и нередко дают только самую поверхностную информацию заинтересованным в области виртуальной реальности читателям.<br/>
+<br/>
+Проанализировав медиаресурсы, мы пришли к выводу, что сейчас самое время создать <b>передачу</b>, которая доступным и понятным образом поможет объяснить все тонкости виртуальной, дополненной, смешанной и других видов реальностей, предоставить достоверную новостную информации, и получить из первых уст мнения экспертов, предпринимателей, аналитиков и евангелистов технологии. <br/>
+<div style="text-align:center;"><img src="https://habrastorage.org/files/43d/462/71f/43d46271fc9b48269416f451343f1984.jpg" /></div><br/>
+ <a href="https://geektimes.ru/post/271624/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 09:54:59 GMT</pubDate>
+		<author>virtualityclub</author>
+		<category><![CDATA[Игры]]></category><category><![CDATA[Дополненная реальность]]></category>
+		<category><![CDATA[виртуальная реальность]]></category><category><![CDATA[дополненная реальность]]></category><category><![CDATA[virtual reality]]></category><category><![CDATA[virtuality club]]></category><category><![CDATA[подкаст]]></category><category><![CDATA[Fibrum]]></category><category><![CDATA[Сколково]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Как выбрать стандарт связи для сети IoT]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271618/</guid>
+		<link>https://geektimes.ru/post/271618/</link>
+		<description><![CDATA[<br/>В предыдущей <a href="https://geektimes.ru/post/268908/">статье</a> не были рассмотрены стандарты беспроводных сетей. <br/>
+Вопрос о том, как элементы Интернета вещей связываются между собой, является одним из самых важных при построении сети. Здесь возможны варианты, и все зависит, конечно, от задач проекта.<br/>
+Ключевые аспекты при рассмотрении вариантов сетевого подключения:<br/>
+<ul>
+<li>Дальность. Сеть для развертывания в офисе или в целом городе?</li>
+<li>Частота. Какое проникновение необходимо и какая устойчивость против помех?</li>
+<li>Скорость передачи данных. Какая пропускная способность требуется? Как часто обновляются данные?</li>
+<li>Энергопитание. Устройства работают от сети или аккумулятора?</li>
+<li>Безопасность. Устройства участвуют в работе критически важных приложений?</li>
+</ul><br/>
+Данные сведены в две таблицы.<br/>
+<br/>
+<img src="https://habrastorage.org/files/d85/596/d83/d85596d83f584b868d2783b41976ffd6.png"/><br/>
+<br/>
+ <a href="https://geektimes.ru/post/271618/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 06:24:21 GMT</pubDate>
+		<author>fantsiferov</author>
+		<category><![CDATA[Умный дом]]></category><category><![CDATA[Софт]]></category><category><![CDATA[Сетевое оборудование]]></category><category><![CDATA[Интернет вещей]]></category><category><![CDATA[Блог компании Command Spot]]></category>
+		<category><![CDATA[интернет вещей]]></category><category><![CDATA[сети]]></category><category><![CDATA[стандарты]]></category><category><![CDATA[протоколы]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Тим Кук еще раз подтверждает твердость своих позиций, 51% опрошенных американцев поддерживает ФБР]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271622/</guid>
+		<link>https://geektimes.ru/post/271622/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/getpro/geektimes/post_images/1cd/fb6/fc6/1cdfb6fc65d8bbc89e534e5287c7c1e4.jpg" alt="image"/><br/>
+ <a href="https://geektimes.ru/post/271622/#habracut">Подробнее</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 06:23:17 GMT</pubDate>
+		<author>icover</author>
+		<category><![CDATA[Смартфоны]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[iPhone]]></category><category><![CDATA[Apple]]></category><category><![CDATA[Блог компании iCover.ru]]></category>
+		<category><![CDATA[Apple]]></category><category><![CDATA[iPhone]]></category><category><![CDATA[Обама]]></category><category><![CDATA[Сноуден]]></category><category><![CDATA[бэкдор]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Винил: Новое – это хорошо забытое старое]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/270418/</guid>
+		<link>https://geektimes.ru/post/270418/</link>
+		<description><![CDATA[<br/><a href="http://geektimes.ru/company/audiomania/blog/270418/"><img src="https://habrastorage.org/files/231/031/80a/23103180a779407dbb22d4026e30b2cf.jpg" width="700"/></a><br/>
+<br/>
+<i>Еще несколько лет назад идея покупать (и уж тем более выпускать) пластинки на виниле казалась безнадежно устаревшей.<br/>
+<br/>
+Тем не менее, сейчас винил – популярный носитель, наличие которого в тематических магазинах (например, <a href="http://www.audiomania.ru/vinilovye_plastinki/">у нас</a> в Аудиомании) воспринимается чем-то само собой разумеющимся – на виниле выходят альбомы исполнителей самых разных жанров: от переиздания Creedence Clearwater Revival до Тейлор Свифт.</i> <a href="https://geektimes.ru/post/270418/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 05:52:05 GMT</pubDate>
+		<author>dmitrykabanov</author>
+		<category><![CDATA[Старое железо]]></category><category><![CDATA[Звук]]></category><category><![CDATA[Железо]]></category><category><![CDATA[Гаджеты]]></category><category><![CDATA[Блог компании Аудиомания]]></category>
+		<category><![CDATA[винил]]></category><category><![CDATA[виниловые пластинки]]></category><category><![CDATA[виниловые проигрыватели]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Улучшаем свой английский: изобретаем субтитры заново]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271208/</guid>
+		<link>https://geektimes.ru/post/271208/</link>
+		<description><![CDATA[<br/><h2>1. Intro</h2><br/>
+<img src="https://habrastorage.org/files/24c/f07/4f3/24cf074f32ea438cb2f255161036daa8.png"/><br/>
+<br/>
+<blockquote>— Татьяна Леонидовна, а можно, мы посмотрим это кино с субтитрами?<br/>
+— Нет, малолетние дятлы, мы тренируем ваше слуховое восприятие, поэтому кино вы будете смотреть без них! С субтитрами вы будете только читать текст и не слушать.<br/>
+— Татьяна Леонидовна, но без субтитров мы больше половины не понимаем!<br/>
+— А вот это уже ваши проблемы.<br/>
+</blockquote><br/>
+<i>Начало 2000-х, диалог с учителем во французской спецшколе, Санкт-Петербург.</i><br/>
+<br/>
+ <a href="https://geektimes.ru/post/271208/#habracut">Далее</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 05:44:13 GMT</pubDate>
+		<author>57uff3r</author>
+		<category><![CDATA[Персонализация]]></category><category><![CDATA[Лайфхаки для гиков]]></category><category><![CDATA[Изучение языков]]></category>
+		<category><![CDATA[иностранные языки]]></category><category><![CDATA[английский язык]]></category><category><![CDATA[изучение иностранных языков]]></category><category><![CDATA[изучение английского языка]]></category><category><![CDATA[субтитры]]></category><category><![CDATA[кино]]></category><category><![CDATA[велосипед на ракетном топливе]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Краткая история ZTE: почему стоит доверять китайским гаджетам]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271536/</guid>
+		<link>https://geektimes.ru/post/271536/</link>
+		<description><![CDATA[<br/>Китайская компания ZTE была основана в 1985 году, хотя даже сейчас её сложно назвать известной на российском рынке. В 2011 она была вторым по величине производителем телекоммуникационного оборудования и мобильных телефонов в Китае. Она внесена в листинг Шэньчжэньской и Гонконгской фондовых бирж, и входит в состав индекса Hang Seng China Enterprises Index.<br/>
+<br/>
+К тому же ZTE имеет 13 научно-исследовательских центров в Китае, США, Швеции и Корее, на которые тратит 10% годового дохода, и является партнёром Intel, Microsoft, IBM и Qualcomm.<br/>
+<br/>
+51,8% акций ZTE принадлежит КНР, а это значит, что за качеством продукции следят власти страны. <br/>
+<br/>
+<img src="https://habrastorage.org/getpro/geektimes/post_images/86b/34d/da9/86b34dda9129e1b052bb9c9297fd222e.jpg" width="600" alt="image"/><br/>
+ <a href="https://geektimes.ru/post/271536/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Thu, 25 Feb 2016 05:00:01 GMT</pubDate>
+		<author>ivansychev</author>
+		<category><![CDATA[Смартфоны]]></category><category><![CDATA[Android]]></category><category><![CDATA[Блог компании Dronk.Ru]]></category>
+		<category><![CDATA[ZTE]]></category><category><![CDATA[смартфоны. Android]]></category><category><![CDATA[мобильные]]></category><category><![CDATA[гаджеты]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Секретные меню Mortal Kombat открыты спустя десятилетия после выхода игры]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271616/</guid>
+		<link>https://geektimes.ru/post/271616/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/getpro/geektimes/post_images/3e7/ea9/73a/3e7ea973a4dd4de83f9028b651b2f42e.jpg" height="336" width="580"/><br/>
+<br/>
+Серия Mortal Kombat стала известной задолго до появления мощных графических адаптеров. Тщательная работа основоположников игры, продуманный характер героев, серии комбо и прочие фаталити — и Mortal Kombat стал звездной игрой, которую даже «платиновой» назвать язык не поворачивается, поскольку это уже осмий, родий или даже калифорний. Вот уже пару десятков лет лучшие бойцы всех миров сражаются друг с другом до полной победы. <br/>
+<br/>
+Один из пользователей youTube выложил ролик с демонстрацией секретных меню и различных ресурсов Mortal Kombat Arcade. Для получения доступа к меню игроку необходимо выполнить длинную последовательность нажатий на кнопки блока. Причем ввод должен быть совершен быстро и точно, настолько точно, что за многие годы игры с участием миллионов игроков никто случайно не выполнил эту комбинацию.<br/>
+ <a href="https://geektimes.ru/post/271616/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 22:15:48 GMT</pubDate>
+		<author>marks</author>
+		<category><![CDATA[История ИТ]]></category><category><![CDATA[Игры]]></category>
+		<category><![CDATA[mortal kombat]]></category><category><![CDATA[файтинги]]></category><category><![CDATA[easter eggs]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[[recovery mode] Как компьютер играет в шахматы?]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271614/</guid>
+		<link>https://geektimes.ru/post/271614/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/files/85e/fcf/1ca/85efcf1cae994ade85219b1e4915d0a7.jpg"/><br/>
+<i>Хикару Накамура, недавно бросивший вызов компьютеру</i><br/>
+<br/>
+Компьютер уже давно обыграл человека в шахматы, сейчас сильнейшие шахматисты не способны выиграть даже у старенького ноутбука. Теперь шахматные движки используются для анализа партий, поиска новых вариантов и игры по переписке.<br/>
+<br/>
+Если вам интересно, как же устроены шахматные движки — добро пожаловать под кат.<br/>
+ <a href="https://geektimes.ru/post/271614/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 21:51:02 GMT</pubDate>
+		<author>Randl</author>
+		<category><![CDATA[Софт]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Логические игры]]></category><category><![CDATA[Искусственный интеллект]]></category>
+		<category><![CDATA[шахматы]]></category><category><![CDATA[игры]]></category><category><![CDATA[программирование]]></category><category><![CDATA[AI]]></category><category><![CDATA[алгоритмы]]></category><category><![CDATA[tldr]]></category><category><![CDATA[никто не читает теги]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Виртуальная реальность — 10 способов перемещения, не вызывающих дискомфорт]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271612/</guid>
+		<link>https://geektimes.ru/post/271612/</link>
+		<description><![CDATA[<br/>Вдохновившись интересом аудитории Geektimes к такому популярному и раскручиваемому нынче явлению как виртуальная реальность, решил представить вашему вниманию еще одну статью, в которой рассматриваются характерные особенности создания контента для VR-cистем, ориентированного на геймеров.<br/>
+<br/>
+***<br/>
+<br/>
+Глядя на игры для виртуальной реальности и оценивая их, в своих суждениях, как правило, мы отталкиваемся от своего опыта и вкусов в области традиционных компьютерных игр, в которые мы привыкли играть. <br/>
+У каждого из нас за многие годы уже выработались свои жанровые предпочтения, определенные требования к графике и игровому процессу, и нас сложно чем-то удивить как визуально, так и геймплейно, особенно когда 360° VR-контент демонстрируют в двухмерном виде.<br/>
+<br/>
+Тем не менее, сейчас я хотел бы поговорить не о глобальных различиях, характеризующих виртуальные игры как отдельную ветвь развития игровой индустрии, а только о способах реализации перемещений действующего лица в пространстве виртуальной реальности (locomotion), как о важной составляющей игрового процесса, имеющей свои особенности.<br/>
+Речь пойдет о системах перемещений в проектах для систем Oculus Rift, HTC Vive и PlayStation VR.<br/>
+<br/>
+<img src="https://habrastorage.org/files/fea/145/6fc/fea1456fca4648839a0b713b52461f63.jpg" alt="image"/><br/>
+ <a href="https://geektimes.ru/post/271612/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 21:23:05 GMT</pubDate>
+		<author>1NOK</author>
+		<category><![CDATA[Игры]]></category><category><![CDATA[Игровые приставки]]></category><category><![CDATA[Дополненная реальность]]></category><category><![CDATA[Будущее здесь]]></category><category><![CDATA[Geektimes]]></category>
+		<category><![CDATA[виртуальная реальность]]></category><category><![CDATA[vr]]></category><category><![CDATA[htc vive]]></category><category><![CDATA[oculus rift]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[MasterCard готовит опции верификации клиентов при помощи селфи, тембра голоса и сердечного ритма]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271600/</guid>
+		<link>https://geektimes.ru/post/271600/</link>
+		<description><![CDATA[<br/>Приветствуем наших уважаемых читателей на страницах блога <a href="http://www.icover.ru/">iCover</a>! Сообщаем, что компания MasterCard объявила о намерении ввести дополнительные опции аутентификации пользователей своих продуктов посредством селфи и отпечатка пальца, позволяющих оставить в прошлом необходимость ввода PIN-кода, пароля и кода подтверждения. Первые серии тестов этих технологий контроля доступа компания провела еще в 2015 году и сейчас, оценив мнение информантов, пришла к выводу о возможности их широкого распространения на уровне платежной системы. Об этих и других планах MasterCard, оглашенных компанией в Барселоне в рамках выставки MWC 2016 мы расскажем ниже. <br/>
+<br/>
+<img src="https://habrastorage.org/getpro/geektimes/post_images/b09/55d/a10/b0955da1015f2ededb2df612b51ea7f1.jpg" alt="image"/><br/>
+ <a href="https://geektimes.ru/post/271600/#habracut">Подробнее</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 20:59:03 GMT</pubDate>
+		<author>icover</author>
+		<category><![CDATA[Финансы в IT-индустрии]]></category><category><![CDATA[Смартфоны]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Гаджеты]]></category><category><![CDATA[Блог компании iCover.ru]]></category>
+		<category><![CDATA[MasterCard]]></category><category><![CDATA[PIN-код]]></category><category><![CDATA[MWC 2016]]></category><category><![CDATA[биометрическая верификация]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Как прочитать 40 книг за год]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271606/</guid>
+		<link>https://geektimes.ru/post/271606/</link>
+		<description><![CDATA[<br/>В прошлом году я поставил себе задачу прочитать 40 книг. В целом это удалось, включая такую книгу-мастодонт как «Атлант расправил плечи». При этом у меня работа, семья с 2 малышами и свой pet-project. В этой статье я расскажу, какие небольшие лайфхаки помогли мне всё это сделать.<br/>
+<br/>
+<img src="https://habrastorage.org/files/0cd/8b6/907/0cd8b690759343058e30002cdeacce22.png" align="right" alt="Big data"/> Первый и самый главный вопрос — зачем. Поскольку я развиваю свой образовательный проект (вот <a href="https://megamozg.ru/company/yasno_tv/">мы на Мегамозге</a>), стоит задача проработать массу учебного материала. Например, чтобы разобраться со статистикой и теорией вероятности так, чтобы её можно было объяснить любому человеку, что называется, на пальцах, мне пришлось прочитать десяток научно-популярных книг, включая «Чёрный лебедь», «Удовольствие от X», «Бизнес-статистика» и «Big data» (в итоге это вылилось в <a href="https://megamozg.ru/company/yasno_tv/blog/24322/">вебинар «Зачем в жизни нужна теория вероятностей»</a>).<br/>
+<br/>
+Примерно оценив объём работы и свои силы, я сделал вывод, что нужно осваивать где-то 3 книги в месяц. Как задача-максимум это округлилось до 40 книг в год.<br/>
+<br/>
+<h3>Пацан сказал — пацан сделал</h3><br/>
+Первое, что я сделал — это commitment (не уверен, что в русском есть подходящее слово — это «обязательство перед самим собой», чтоб не спрыгнуть и потом не говорить себе «если бы я правда захотел, я бы и сто книг осилил». Плавали, знаем.)<br/>
+<br/>
+Технически это просто. На сайте goodreads.com можно отмечать прочитанные тобой книги и ставить им оценку и отзыв (сайт выглядит как что-то из 90х, но для наших целей годится). Недавно они добавили фичу «Reading challenge», где ты можешь указать, сколько книг собираешься прочесть за год — в итоге оно будет мониторить, на сколько книг ты опережаешь план или отстаёшь от него. Удобно.<br/>
+<br/>
+<img alt="Reading challenge" src="https://habrastorage.org/files/a71/587/63c/a7158763c2b440f4ad0f7bc222deb3b8.png"/> <br/>
+<br/>
+<h3>Пожиратели времени</h3><br/>
+Когда цель амбициозна, начинаешь по-новому оценивать своё время. Другими словами, можно по-новому структурировать новогодние и майские «каникулы». Так получилось, что Новый год мы встретили в трезвости и покое, поэтому за первые 3 дня года я проглотил 5 небольших книг по 150 страниц. Настрой был серьёзный. <a href="https://geektimes.ru/post/271606/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 20:33:34 GMT</pubDate>
+		<author>alex4</author>
+		<category><![CDATA[Электронные книги]]></category><category><![CDATA[Читальный зал]]></category><category><![CDATA[Лайфхаки для гиков]]></category>
+		<category><![CDATA[саморазвитие]]></category><category><![CDATA[чтение книг]]></category><category><![CDATA[чтение]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Железная модификация RTL-SDR стика, для приема КВ]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271610/</guid>
+		<link>https://geektimes.ru/post/271610/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/files/2f6/c20/f53/2f6c20f53a9944e297271d7b01ee0df1.jpg"/><br/>
+Заказал на тест USB стик, на связке чипов RTL2832U + R820T, для использования его в качестве SDR приемника. Поскольку это очень дешевое устройство, и используется не по прямому назначению, имеет ряд недостатков, которые я решил исправить:<br/>
+_Тюнер R820T не принимает сигнал на частотах ниже 25MHz.<br/>
+_Стик очень горячий — все тепло отводится через антенное гнездо и USB разьем. <br/>
+_В схеме питания используются очень маломощные стабилизаторы, которые работают на пределе. <br/>
+ <a href="https://geektimes.ru/post/271610/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 20:15:53 GMT</pubDate>
+		<author>RasselFast</author>
+		<category><![CDATA[Железо]]></category>
+		<category><![CDATA[SDR]]></category><category><![CDATA[RTL-SDR]]></category><category><![CDATA[RTL2832U]]></category><category><![CDATA[R820T]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Неофициальное расширение памяти iPhone или Китайская победа над Американским маркетингом]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271608/</guid>
+		<link>https://geektimes.ru/post/271608/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/files/166/544/b59/166544b591f14f6485a868d349f1bcfb.jpeg"/><br/>
+Давным-давно, когда iPhone в России стоил дорого, многие покупали залоченные на AT&T айфоны с ибей, используя прокси-сим (гевейку) для анлока. В это время начался переход на iPhone 4, где способ с повышением модема до iPad'овского (06.15.00) не работал, последним софтовым анлоком был 01.59.00 (iOS 4.0), а обновление BaseBand требовало покупки новой гевейки. Вплоть до iOS 5.0, где новый модем 04.11.08 превратил множество устройств в iPod. Именно с этого момента расцвел этот удивительный китайский бизнес.<br/>
+Под катом небольшая история от 2011 до наших дней с картинками.<br/>
+<br/>
+ <a href="https://geektimes.ru/post/271608/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 19:38:42 GMT</pubDate>
+		<author>kachalov</author>
+		<category><![CDATA[Смартфоны]]></category><category><![CDATA[iOS]]></category><category><![CDATA[Apple]]></category>
+		<category><![CDATA[iPhone]]></category><category><![CDATA[AppleInternal]]></category><category><![CDATA[NAND]]></category><category><![CDATA[лавсановые волокна]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Роботы создают рабочие места]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271604/</guid>
+		<link>https://geektimes.ru/post/271604/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/getpro/geektimes/post_images/921/193/b39/921193b39dae59892cbb7eae982fe0f6.jpg" alt="image"/><br/>
+<br/>
+Робототехника станет основным инструментом для создания новых рабочих мест в последующие 5 лет. Такое мнение базируется на исследовании «Позитивное влияние промышленных роботов на занятость», проведенное <a href="http://www.robo-hunter.com/uploads/files/56cddf9c5d901.pdf">компанией Metra Martech</a>.<br/>
+<br/>
+В нем отмечено, что миллион промышленных роботов, которые сейчас заняты на производстве, создают около трех миллионов рабочих мест, а дальнейшее увеличение их числа приведет к созданию еще миллиона рабочих мест для высококвалифицированных сотрудников во всем мире в последующие 5 лет. Преимущественно новые рабочие места будут созданы в таких отраслях, как потребительская электроника, продукты питания, альтернативная энергия (солнечная и ветряная) и создание новых видов батарей. <a href="https://geektimes.ru/post/271604/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 17:14:55 GMT</pubDate>
+		<author>RoboHunter</author>
+		<category><![CDATA[Робототехника]]></category><category><![CDATA[Блог компании RoboHunter]]></category>
+		<category><![CDATA[робототехника]]></category><category><![CDATA[производство]]></category><category><![CDATA[промышленные]]></category><category><![CDATA[роботы]]></category><category><![CDATA[трудоустройство]]></category><category><![CDATA[вакансии]]></category><category><![CDATA[работа]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Как «Моторика» делает протезы для детей]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271580/</guid>
+		<link>https://geektimes.ru/post/271580/</link>
+		<description><![CDATA[<br/>Протезы от российского стартапа «Моторика» вовсю используют уже 6 мальчиков и девочек, а сейчас ещё 4 ребёнка готовятся к установке. Трое взрослых используют тяговые протезы, а один — мио-протез. <br/>
+<br/>
+Впервые о тяговых протезах для детей от стартапа из Томского нанотехнологического центра я упомянул в октябре 2015 года, когда писал <a href="https://geektimes.ru/post/264786/">обзор форума «Открытые инновации»</a>. В декабре 2015 года команда <a href="https://geektimes.ru/post/267216/">запустила краудфандинговую кампанию</a> на Planeta.ru – чтобы как можно большему числу людей рассказать о возможности сделать красивые и функциональные протезы вместо бесполезных резиновых имитаторов рук. <br/>
+<br/>
+Команда постоянно ищет новых героев, которым необходим такой протез. Заявку можно оставить <a href="http://motorica.org/">на сайте компании</a> или в социальных сетях — <a href="http://vk.com/motorics">Вконтакте</a> и <a href="https://www.facebook.com/expressprosthesis">Facebook</a>. <br/>
+<br/>
+Под катом — немного подробнее о том, как в «Моторике» делают протезы. <br/>
+<a href="https://geektimes.ru/post/271580/"><img src="https://habrastorage.org/getpro/geektimes/post_images/4b7/5dd/eee/4b75ddeee0adb26f25f87bae59f08d68.png" width="600" alt="image"/></a><br/>
+<i>Аня и Илья Чех, сооснователь Моторики</i><br/>
+ <a href="https://geektimes.ru/post/271580/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 15:24:20 GMT</pubDate>
+		<author>ivansychev</author>
+		<category><![CDATA[Медгаджеты]]></category><category><![CDATA[Биотехнологии]]></category><category><![CDATA[3D-принтеры]]></category>
+		<category><![CDATA[протезы]]></category><category><![CDATA[Моторика]]></category><category><![CDATA[3D-печать]]></category><category><![CDATA[3D-принтеры]]></category><category><![CDATA[дети]]></category><category><![CDATA[детские протезы]]></category><category><![CDATA[Роснано]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Apple не хочет помогать взламывать iPhone. Почему это важно?]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271568/</guid>
+		<link>https://geektimes.ru/post/271568/</link>
+		<description><![CDATA[<br/><a href="https://habrastorage.org/files/2f8/4c7/b1b/2f84c7b1b70445d7832873e6fa8f52d6.png"><img src="https://habrastorage.org/files/2f8/4c7/b1b/2f84c7b1b70445d7832873e6fa8f52d6.png" align="left" width="320"/></a>Не самое крупное решение компании Apple явилось толчком для начала нового витка обсуждений вопросов шифрования и приватности. Компания отказалась разблокировать зашифрованный смартфон, фигурировавший в деле о терактах в Сан-Бернандино. Производитель объясняет, что сочувствия террористам он не испытывает. Тем не менее давать спецслужбам бэкдор Apple отказалась.<br/>
+<br/>
+Подобный случай вызвал дискуссии о том, что важнее: помощь спецслужбам в одном из расследований жестокого убийства людей или обеспечение информационной безопасности. Конфликт назревал давно, ещё с момента появления в iPhone включённого по умолчанию шифрования.<br/>
+<br/>
+<h1>Ход развития событий</h1><br/>
+Проблемы начались не после начала расследования или публикации <a href="https://geektimes.ru/post/271238/">открытого письма</a> главы Apple Тима Кука, а после выхода iOS 8 в 2014 году. Именно в восьмой версии шифрование было включено по умолчанию. Тогда спецслужбы не на шутку забеспокоились.<br/>
+ <a href="https://geektimes.ru/post/271568/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 15:11:36 GMT</pubDate>
+		<author>atomlib</author>
+		<category><![CDATA[Смартфоны]]></category><category><![CDATA[Регулирование интернета]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[iPhone]]></category><category><![CDATA[Apple]]></category>
+		<category><![CDATA[iphone]]></category><category><![CDATA[шифрование]]></category><category><![CDATA[криптография]]></category><category><![CDATA[iPhone 5C]]></category><category><![CDATA[ФБР]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Как путешествовать с помощью технологий виртуальной реальности]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271598/</guid>
+		<link>https://geektimes.ru/post/271598/</link>
+		<description><![CDATA[<br/><img src="https://habrastorage.org/getpro/geektimes/post_images/8ea/602/901/8ea602901def7689153a1a2a26bd5ce6.jpg" alt="image"/><br/>
+<br/>
+Телепортироваться в любой&nbsp; уголок планеты? Почему бы и нет.&nbsp;Сегодня для этого <a href="http://ar-conf.ru/ru/?h=b7c3b193610c2bbd5f5214637ae29ce4">достаточно VR-шлема</a>.<br/>
+Всего пару движений, и вы&nbsp;слышите отдаленный шум городских улиц и уже совершили путешествие в Лондон, физически находясь в своем городе.<br/>
+Такую возможность сегодня предоставляет гарнитура виртуальной реальности Oculus Rift. Девайс может «телепортировать» человека в самую экзотическую виртуальную обстановку, независимо от того, в каком уголке планеты он при этом находится.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://geektimes.ru/post/271598/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 14:21:58 GMT</pubDate>
+		<author>RoboHunter</author>
+		<category><![CDATA[Дополненная реальность]]></category><category><![CDATA[Блог компании RoboHunter]]></category>
+		<category><![CDATA[виртуальная реальность]]></category><category><![CDATA[дополненная реальность]]></category><category><![CDATA[AR]]></category><category><![CDATA[VR]]></category><category><![CDATA[шлем]]></category><category><![CDATA[очки]]></category><category><![CDATA[Oculus Rift]]></category><category><![CDATA[путешествие]]></category><category><![CDATA[VR-туры]]></category><category><![CDATA[Google Street View]]></category><category><![CDATA[Marriott]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Экшн-камера WG-M2]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/267034/</guid>
+		<link>https://geektimes.ru/post/267034/</link>
+		<description><![CDATA[<br/>Японская компания Ricoh обновила линейку экшн-камер. В этом году на рынке появится WG-M2. Модель на 40% компактнее, чем предыдущая (WG-M1) и включает возможность съемки 4K Full HD видео. Одной из особенностью WG-M2 является ее водонепроницаемость и способность выдерживать погружения в воду на глубину до 20 м. Также камера может работать при морозе до -10°C и не боится падения с высоты до 20 м.<br/>
+<br/>
+<img src="https://habrastorage.org/files/821/95e/d88/82195ed8820f4ce98bd11056c5b28d4f.jpg"/><br/>
+<br/>
+ <a href="https://geektimes.ru/post/267034/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 14:14:42 GMT</pubDate>
+		<author>Elena_sm</author>
+		<category><![CDATA[Гаджеты]]></category><category><![CDATA[Видео-техника]]></category><category><![CDATA[Блог компании ua-hosting.company]]></category>
+		<category><![CDATA[камеры]]></category><category><![CDATA[видео]]></category><category><![CDATA[гаджеты]]></category><category><![CDATA[ricoh]]></category><category><![CDATA[wg-m2]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Российская компания ЭЛВИС-НеоТек обновила систему «Перекрёсток» – теперь распознаются нарушения 18 правил дорожного ДД]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/271572/</guid>
+		<link>https://geektimes.ru/post/271572/</link>
+		<description><![CDATA[<br/>Российская компания <a href="https://geektimes.ru/post/267970/">«ЭЛВИС-НеоТек»</a> анонсировала новую версию системы «Перекресток», которая в автоматическом режиме распознаёт до 18 видов нарушений правил дорожного движения и отправляет фотографии и регистрационные номера автомобилей нарушителей для вынесения соответствующего постановления.<br/>
+<br/>
+<img src="https://habrastorage.org/getpro/geektimes/post_images/373/dae/641/373dae6414165f4455bbe1117605a295.jpg" width="600" alt="image"/><br/>
+ <a href="https://geektimes.ru/post/271572/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 14:08:35 GMT</pubDate>
+		<author>ivansychev</author>
+		<category><![CDATA[Транспорт будущего]]></category><category><![CDATA[Процессоры]]></category><category><![CDATA[Видео-техника]]></category>
+		<category><![CDATA[дороги]]></category><category><![CDATA[автомобили]]></category><category><![CDATA[ПДД]]></category><category><![CDATA[видеосистемы]]></category><category><![CDATA[рапознавание объектов]]></category><category><![CDATA[элвис-неотек]]></category>
+	</item>
+
+		<item>
+		<title><![CDATA[Brotherhood of Plastic]]></title>
+		<guid isPermaLink="true">https://geektimes.ru/post/270728/</guid>
+		<link>https://geektimes.ru/post/270728/</link>
+		<description><![CDATA[<br/>Сегодня речь пойдет про оружие.<br/>
+<br/>
+<img src="https://habrastorage.org/files/ea1/72c/183/ea172c1835274cc983f5a9fc5af7ef04.jpg"/><br/>
+<i>Броня T-45b power armor и MP5 Kurz</i><br/>
+<br/>
+Цех аддитивного производства.<br/>
+Здесь можно подержать в руках засекреченный ракетный двигатель, или экспериментальный образец кремниево-германиевой заготовки для процессоров, или уникальный 3d-принтер, который будет клепать медицинские ортезы (можете глянуть на него одним глазком в хакспейсе «Neuron»).<br/>
+<br/>
+Пару лет назад специалисты компании <a href="http://rec3d.ru">REC</a> откликнулись на мои запросы и во всех подробностях рассказали и показали как происходит производство пластика из сырья (<a href="https://geektimes.ru/post/258814/">Как производят PLA для 3d-принтеров. Репортаж из цеха</a>). Постепенно они наращивали мощности по производству расходных материалов, участвовали в выставках, вводили в производство новые материалы, переехали ближе к центру Москвы, закупили свой парк 3d-принтеров. Пластик REC активно участвует в производстве интересных и полезных штуковин (<a href="https://habrahabr.ru/company/neuronspace/blog/258937/">Польза 3d-принтеров для медицины и ракетостроения</a>).<br/>
+<br/>
+Недавно я зашел к ним в гости в технопарк на Алексеевской и в итоге, после того как я повертел в руках изделия из «резины» и «силикона», мы пару часов поговорили про новинки российских 3d-принтеров, про печать одежды, которую предложил Лем в «Возвращении со звезд» (в 1961 году), про олдскульный и современный Fallout, про танковые полигоны, ролевки и про пистолеты.<br/>
+<br/>
+Под катом: Какое оружие напечатали в мире и что можно напечатать в Москве.<br/>
+ <a href="https://geektimes.ru/post/270728/#habracut">Читать дальше &rarr;</a>]]></description>
+		
+		<pubDate>Wed, 24 Feb 2016 14:05:56 GMT</pubDate>
+		<author>MagisterLudi</author>
+		<category><![CDATA[Гаджеты]]></category><category><![CDATA[DIY или Сделай сам]]></category><category><![CDATA[3D-принтеры]]></category><category><![CDATA[Блог компании Хакспейс Neuron]]></category>
+		<category><![CDATA[REC]]></category><category><![CDATA[расходные материалы]]></category><category><![CDATA[пластик]]></category><category><![CDATA[3д-принтер]]></category>
+	</item>
+
+
+
+</channel>
+</rss>
