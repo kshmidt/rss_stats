@@ -16,8 +16,14 @@ module.exports = React.createClass({
         }
     },
     render: function () {
+        if (this.state.text != "") {
+            return <div className="boxContent" id="storyBoxContent">
+        <div id="storyText" dangerouslySetInnerHTML={this.insertHMTL()}></div>
+        </div>;
+    } else {
         return <div className="boxContent" id="storyBoxContent">
-    <div id="storyText" dangerouslySetInnerHTML={this.insertHMTL()}></div>
-    </div>;
+        <div className="nodata">No data</div>
+        </div>;
+    }
     }
 });

@@ -72,7 +72,7 @@ module.exports = React.createClass({
             />
             </div>;
         } else {
-            return <div id="nodata">No data</div>
+            return <div className="nodata">No data</div>
         }
     }
 });

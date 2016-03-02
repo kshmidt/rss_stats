@@ -25,6 +25,12 @@ module.exports = React.createClass({
         });
     },
     render: function () {
-        return <div className="boxContent" onClick={this.handleClick}><StoriesList items={this.props.posts} onStorySelect={this.handleStorySelect} onClick={this.handleClick} selectedStoryId={this.props.selectedStoryId}/></div>;
+        if (this.state.posts.length > 0) {
+            return <div className="boxContent" onClick={this.handleClick}><StoriesList items={this.props.posts} onStorySelect={this.handleStorySelect} onClick={this.handleClick} selectedStoryId={this.props.selectedStoryId}/></div>;
+        } else {
+            return <div className="boxContent">
+            <div className="nodata">No data</div>
+            </div>;
+        }
     }
 });

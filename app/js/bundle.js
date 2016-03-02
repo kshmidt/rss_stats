@@ -406,7 +406,7 @@ module.exports = React.createClass({
         } else {
             return React.createElement(
                 "div",
-                { id: "nodata" },
+                { className: "nodata" },
                 "No data"
             );
         }
@@ -557,11 +557,23 @@ module.exports = React.createClass({
         });
     },
     render: function () {
-        return React.createElement(
-            "div",
-            { className: "boxContent", onClick: this.handleClick },
-            React.createElement(StoriesList, { items: this.props.posts, onStorySelect: this.handleStorySelect, onClick: this.handleClick, selectedStoryId: this.props.selectedStoryId })
-        );
+        if (this.state.posts.length > 0) {
+            return React.createElement(
+                "div",
+                { className: "boxContent", onClick: this.handleClick },
+                React.createElement(StoriesList, { items: this.props.posts, onStorySelect: this.handleStorySelect, onClick: this.handleClick, selectedStoryId: this.props.selectedStoryId })
+            );
+        } else {
+            return React.createElement(
+                "div",
+                { className: "boxContent" },
+                React.createElement(
+                    "div",
+                    { className: "nodata" },
+                    "No data"
+                )
+            );
+        }
     }
 });
 
@@ -712,11 +724,23 @@ module.exports = React.createClass({
         };
     },
     render: function () {
-        return React.createElement(
-            "div",
-            { className: "boxContent", id: "storyBoxContent" },
-            React.createElement("div", { id: "storyText", dangerouslySetInnerHTML: this.insertHMTL() })
-        );
+        if (this.state.text != "") {
+            return React.createElement(
+                "div",
+                { className: "boxContent", id: "storyBoxContent" },
+                React.createElement("div", { id: "storyText", dangerouslySetInnerHTML: this.insertHMTL() })
+            );
+        } else {
+            return React.createElement(
+                "div",
+                { className: "boxContent", id: "storyBoxContent" },
+                React.createElement(
+                    "div",
+                    { className: "nodata" },
+                    "No data"
+                )
+            );
+        }
     }
 });
 
