@@ -7,7 +7,7 @@ $(document).ready(function () {
     function parseXML(fileName, i) {
         var channelObj;
         $.ajax({
-            'url': "./xml/" + fileName,
+            'url': "./../xml/" + fileName,
             'dataType': "text",
             'async': "false",
             'success': function (data) {

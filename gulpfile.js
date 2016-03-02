@@ -4,7 +4,9 @@ var gulp = require("gulp"),
     exec = require('child_process').exec,
     htmlmin = require("gulp-htmlmin"),
     uglify = require("gulp-uglify"),
-    cleanCSS = require('gulp-clean-css');
+    cleanCSS = require('gulp-clean-css'),
+    useref = require('gulp-useref'),
+    gulpif = require('gulp-if');
 
 gulp.task("connect", function () {
     connect.server({
@@ -44,32 +46,28 @@ gulp.task('browserify', function () {
 })
 
 gulp.task("watch", function () {
-    gulp.watch(["./app/*.html"], ["html", "minify"]);
-    gulp.watch(["./app/css/*.css"], ["css", "minify-css"]);
+    gulp.watch(["./app/*.html"], ["html"]);
+    gulp.watch(["./app/css/*.css"], ["css"]);
     gulp.watch(["./app/js/*.js"], ["js"]);
-    gulp.watch(["./app/js/main.jsx"], ["browserify", "compress"]);
-    gulp.watch(["./app/js/components/*.jsx"], ["browserify", "compress"]);
+    gulp.watch(["./app/js/main.jsx"], ["browserify"]);
+    gulp.watch(["./app/js/components/*.jsx"], ["browserify"]);
     gulp.watch(["./bower.json"], ["bower"]);
 });
 
-gulp.task("minify", function () {
-    return gulp.src("./app/index.html")
+gulp.task("build", ["useref"], function () {
+    return gulp.src("./dist/index.html")
         .pipe(htmlmin({
             collapseWhitespace: true
         }))
         .pipe(gulp.dest("./dist/"))
 });
 
-gulp.task('minify-css', function() {
-  return gulp.src('./app/css/styles.css')
-    .pipe(cleanCSS({compatibility: 'ie8'}))
-    .pipe(gulp.dest('./dist/css/'));
-});
-
-gulp.task("compress", function () {
-    return gulp.src("./app/js/bundle.js")
-        .pipe(uglify())
-        .pipe(gulp.dest("./dist/js/"));
+gulp.task('useref', function () {
+    return gulp.src('./app/index.html')
+        .pipe(useref())
+        .pipe(gulpif('./app/js/bundle.js', uglify()))
+        .pipe(gulpif('./app/css/style.css', cleanCSS({compatibility: 'ie8'})))
+        .pipe(gulp.dest('./dist'));
 });
 
 gulp.task("default", ["connect", "watch"]);
