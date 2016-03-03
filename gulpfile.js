@@ -1,12 +1,12 @@
 var gulp = require("gulp"),
     connect = require("gulp-connect"),
     wiredep = require("wiredep").stream,
-    exec = require('child_process').exec,
+    exec = require("child_process").exec,
     htmlmin = require("gulp-htmlmin"),
     uglify = require("gulp-uglify"),
-    cleanCSS = require('gulp-clean-css'),
-    useref = require('gulp-useref'),
-    gulpif = require('gulp-if');
+    cleanCSS = require("gulp-clean-css"),
+    useref = require("gulp-useref"),
+    gulpif = require("gulp-if");
 
 gulp.task("connect", function () {
     connect.server({
@@ -39,7 +39,7 @@ gulp.task("bower", function () {
         .pipe(gulp.dest("./app/"));
 });
 
-gulp.task('browserify', function () {
+gulp.task("browserify", function () {
     exec('browserify -t [ babelify --presets [ react ] ] "./app/js/main.jsx" -o "./app/js/bundle.js"', function (stderr) {
         console.log(stderr);
     });
@@ -54,7 +54,7 @@ gulp.task("watch", function () {
     gulp.watch(["./bower.json"], ["bower"]);
 });
 
-gulp.task("build", ["useref"], function () {
+gulp.task("build", ["useref", "icons", "xml"], function () {
     return gulp.src("./dist/index.html")
         .pipe(htmlmin({
             collapseWhitespace: true
@@ -62,12 +62,22 @@ gulp.task("build", ["useref"], function () {
         .pipe(gulp.dest("./dist/"))
 });
 
-gulp.task('useref', function () {
-    return gulp.src('./app/index.html')
+gulp.task("icons", function () {
+    return gulp.src("./app/bower_components/bootstrap/fonts/*.*")
+        .pipe(gulp.dest("./dist/fonts/"));
+});
+
+gulp.task("xml", function () {
+    return gulp.src("./app/xml/*.*")
+        .pipe(gulp.dest("./dist/xml/"));
+});
+
+gulp.task("useref", function () {
+    return gulp.src("./app/index.html")
         .pipe(useref())
-        .pipe(gulpif('./app/js/bundle.js', uglify()))
-        .pipe(gulpif('./app/css/style.css', cleanCSS({compatibility: 'ie8'})))
-        .pipe(gulp.dest('./dist'));
+        .pipe(gulpif("./app/js/bundle.js", uglify()))
+        .pipe(gulpif("./app/css/style.css", cleanCSS({compatibility: "ie8"})))
+        .pipe(gulp.dest("./dist"));
 });
 
 gulp.task("default", ["connect", "watch"]);
